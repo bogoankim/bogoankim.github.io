@@ -1,455 +1,195 @@
 ---
 layout: post
-title: 마크다운 기초
+title: 댓글기능추가하기
 description: >
-    마크다운 기초 설명
+    댓글기능으로 utterance 적용
 sitemap: false
 hide_last_modified: false
 categories:
   - example1
 ---
 
-# 마크다운 기초 설명
+# 댓글기능 utterance 추가하기
+
+블로그에 댓글기능이 없어도 블로그를 운영하는데는 상관이 없지만
+
+댓글 기능이 있음으로 본인이 올린 게시물에 대해 잘못된점을 지적받을수 있고 궁금한점을 질문 받고 토론할수 있을것이다. 이처럼 댓글은 블로그의 게시물 퀄리티를 한층 높여주고 커뮤니티의 기능등 블로그의 순 기능들을 잘 수행하게 해준다.
+
+처음에 블로그를 시작하게 된 이유를 생각해보자.
+
+​
+
+따라서 댓글기능은 꼭 필요한것은 아니지만 한편으로 중요하다고 볼수있다.
+
+댓글기능 구현은 여러방법이 있는데 그중에서 방문자가 가장 쉽게 댓글을 쓸수 있는 방법을 사용할려고 한다.
+
+​
+
+댓글을 쓸려고 해도 가입을 해야하거나 로그인하기가 불편하다면 쓸려다가도 안쓰게 된다.
+
+utterances는 간단히 깃헙 계정이있고 깃헙이 로그인되어있다면 버튼하나로 손쉽게 댓글을 쓸수 있다.
+
 
 * toc
 {:toc .large-only}
 
-## 마크다운이란?
+## 1_ utterances란
+---
+🔗 [https://github.com/apps/utterances](https://github.com/apps/utterances)
 
-Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의해 만들어졌으며 쉽게 쓰고 읽을 수 있으며 HTML로 변환이 가능하다. 특수기호와 문자를 이용한 매우 간단한 구조의 문법을 사용하여 웹에서도 보다 빠르게 컨텐츠를 작성하고 보다 직관적으로 인식할 수 있다. 마크다운이 최근 각광받기 시작한 이유는 깃헙(https://github.com) 덕분이다. 깃헙의 저장소Repository에 관한 정보를 기록하는 README.md는 깃헙을 사용하는 사람이라면 누구나 가장 먼저 접하게 되는 마크다운 문서였다. 마크다운을 통해서 설치방법, 소스코드 설명, 이슈 등을 간단하게 기록하고 가독성을 높일 수 있다는 강점이 부각되면서 점점 여러 곳으로 퍼져가게 된다.
+utterances는 깃허브의 이슈기능을 가지고 댓글을 생성해준다. 게시글 하나가 이슈 하나와 매핑이 되고, 게시글에 댓글을 달면 해당 이슈에 댓글이 달린다. 댓글 창은 iframe으로 동작하며 해당 페이지가 로드될 때, 페이지의 URL, pathname, 혹은 title을 가지고 issue search API 를 통해 해당 이슈에 달린 댓글을 로딩하여 댓글 창에 로딩시켜준다.
 
-## 마크다운의 장단점
+만약에 내가 최초로 댓글을 달아서 이슈가 없다면? utterances-bot이 자동적으로 이슈를 생성해준다고 한다.
 
-### 장점
+utterances를 적용하려고 하는 이유는 다음과 같다.
 
-~~~
-1. 간결하다.
-2. 별도의 도구없이 작성이 가능하다.
-3. 다양한 형태로 변환이 가능하다.
-4. 텍스트로 저장되기 때문에 용량이 적어 보관이 용이하다.
-5. 텍스트파일이기 때문에 버전관리시스템을 이용하여 변경이력을 관리할 수 있다.
-6. 지원하는 프로그램과 플랫폼이 다양하다.
-~~~
+1. <mark>개발자 블로그이니 만큼 따로 번거러운 작업 없이 깃허브 계정만으로도 바로 댓글을 쓸수 있으면 한다.</mark>
 
-### 단점
+2. <mark>익숙한 깃허브의 UI를 보고싶다.</mark>
 
-~~~
-1. 표준이 없다.
-2. 표준이 없기 때문에 도구에 따라 변환방식이나 생성물이 다르다.
-3. 모든 HTML 마크업을 대신하지 못한다.
-~~~
+3. <mark>다음에 또 이런 마이그레이션 작업이 필요할 수 있으니, 게시글과 댓글을 매핑하는 설정이 쉬우면 좋겠다.</mark>
 
-## 마크다운 문법
+4. <mark>Disqus는 댓글쓰는것이 불편하다.</mark>
 
-지금 위에서 설명한것만으로 벌써 마크다운의 문법을 사용하였다.  
-사용한것부터 시작하여 마크다운 문법을 봐보자.
+#### utterances 장점 모음
+​
+<code>▶깃허브는 다수 개발자가 가입은 해둔 플랫폼입니다.</code>
+
+-깃허브 앱인 utterances는 깃허브 계정만 있으면 되기 때문에 블로그 운영자와 사용자는 대부분 별도 가입을 하지 않아도 됩니다.
+
+​
+
+<code>▶특별한 관리 부담이 필요치 않습니다.</code>
+
+-운영자 입장에서도 자주 사용하는 플랫폼인 깃허브는 친숙한 환경이기에 설치나 관리에 대한 부담이 없습니다.
+
+​
+
+<code>▶댓글 알림을 받을 수 있습니다.</code>
+
+-github issues를 댓글 쓰레드로 사용하는 utterances는 댓글이 등록되면, 즉 새로운 issue가 등록된 것이므로 메일 알림을 받을 수 있습니다.
+
+-이 때문에 소중한 독자와 소통하는 타이밍을 놓치지 않게 됩니다.
+
+​
+
+<code>▶설치 및 설정이 쉽습니다.</code>
+
+- utterances앱을 깃허브 계정에 추가한 뒤 댓글 저장 용도로 사용될 신규 레포지토리 추가하여 권한을 주면 됩니다.
+
+-이후 댓글 영역에 스크립트 코드 한 줄만 추가해주면 셋팅이 끝납니다.
+
+​
+
+<code>▶Markdown 문법을 이용하여 댓글 작성이 가능합니다.</code>
+
+-github 플랫폼을 이용하기 때문에 당연히 마크다운 문법 사용이 가능합니다.
+
+​
+
+그렇다면 이제 utterance를 적용해보자.
+
+​
+
+## 2_ 시작하기전에
+---
+먼저 댓글있을 저장소(레파지토리)를 지정해야합니다.
+
+따라서 새로운 레파지토리를 만들어줍니다.
 
 
-### 1. 헤더
+![그림1](/assets/img/blog/githubpages/7-1.jpeg)
 
-위에서 장단점을 설명할때 이미 다양한 헤더를 사용하였다.
-
-~~~
-# this is a h1
-## this is a h2
-### this is a h3
-#### this is a h4
-##### this is a h5
-###### this is a h6
-~~~
-
-🔍 **결과**
-| 1 | 2 | 3 |
-| -- | -- | -- |
-| a | b | c |
-| ㄱ | ㄴ | ㄷ |
+저는 이름을 blog-comments-repo로 지어주었습니다.
 
 
-### 2. 코드블럭
+## 3_ 설치하기
+---
+**utterance app 설치**
 
-위에서 장단점을 설명할때 사용한 박스를 4가지 방식을 사용하여 나타내본다.
+🔗 [https://utteranc.es/](https://utteranc.es/)에서 utterance앱을 설치한다.
 
-1. ```<pre><code>```
-2. <code>```</code> 또는 <code>~~~</code>
-3. 들여쓰기
-4. 언어별 코드블럭
+설치 버튼을 클릭해 설치를 실행한다.
 
-**2.1 ```<pre><code>``` 사용**
+![그림2](/assets/img/blog/githubpages/7-2.jpeg)
 
-~~~
-<pre>
-<code>
-def func(a,b):
-    return a+b
 
-print(func(2,3))
+![그림3](/assets/img/blog/githubpages/7-3.jpeg){: width="400" height="400}
+
+처음에는 All repositories로 선택되어있는데 Only select repositories를 선택하고 블로그 댓글저장소(blog-comments-repo)를 골라주고 이후 Install 버튼을 누른다.
+
+![그림4](/assets/img/blog/githubpages/7-4.jpeg)
+
+이후 비밀번호로 한번 확인받는다. 이후 아래와 같은 페이지가 나온다.
+
+![그림5](/assets/img/blog/githubpages/7-5.jpeg){: width="400" height="400}
+
+조금더 내려 configuration의 repo:에 자신의 블로그 댓글 저장소를 입력해준다.
+
+
+## 4_ configuration
+---
+![그림6](/assets/img/blog/githubpages/7-6.jpeg){: width="400" height="400}
+
+#### Blog post <--> Issue 매핑 방식을 선택
+
+![그림7](/assets/img/blog/githubpages/7-7.jpeg){: width="400" height="400}
+
+위에서 언급했듯이 utterances는 게시글 하나와 레파지토리의 이슈 하나가 서로 연동되는 시스템이다.
+
+**(post <--   --> issue 매핑)**
+
+이런 연동 방법으로 난 다섯 가지가 있다.
+
+1. pathname
+
+> 포스트의 pathname으로 이슈를 생성한다. 이 포스팅 같은 경우는 /blog/2020/12/18/utterances- 적용으로 이슈가 생성되어 매핑된다.
+
+​
+
+2. page URL
+
+> 게시글의 URL 전체로 이슈를 매핑한다.
+
+​
+
+3. page title
+
+> 게시글의 제목으로 이슈를 매핑한다.
+
+​
+
+4. issue number
+
+> 이슈 번호를 가지고 매핑한다.
+
+​
+
+5. issue title contains specific term
+
+> 게시글 제목에 특정 단어가 들어가 있는지 체크하여 매핑한다.
+
+​
+
+필자는 URL이 바뀔일이 없다고 생각하여 pathname으로 하였다.
+
+#### Theme 와 Enable Utterances
+
+![그림8](/assets/img/blog/githubpages/7-8.jpeg)
+
+테마를 흰색할지 검정색할지등 골라주고 위 코드를 복사해준다.
+
+<strong>
+<code class="language-plaintext highlighter-rouge">
+_includes/comments.html
 </code>
-</pre>
-~~~
+</strong>
+ 파일에 아래와 같이 복사한 코드를 넣어준다.
 
-> 🔍 **결과**
+![그림9](/assets/img/blog/githubpages/7-9.jpeg)
 
+이제 저장을 하고 터미널에 수번을 했던것처럼 bundle exec jekyll serve를 해준다.
 
+![그림10](/assets/img/blog/githubpages/7-10.jpeg)
 
-**2.3 들여쓰기 사용**
-
-탭이나 스페이스 4번을 통해 코드블럭을 만들수 있다.
-
-~~~
-    def func(a,b):
-        return a+b
-
-    print(func(2,3))
-~~~
-
-
-
-> 🔍 **결과**
-
-
-
-
-**2.4 언어별 코드블럭 사용**
-
-python
-
-<pre>
-<code>
-~~~python
-def func(a,b):
-    return a+b
-
-print(func(a,b))
-~~~
-</code>
-</pre>
-
-> 🔍 **결과**
-
-
-
-- 그밖에 언어들  
-    - Bash (bash)
-    - C# (cs)
-    - CSS (css)
-    - Diff (diff)
-    - HTML, XML (html)
-    - Ini (ini)
-    - JSON (json)
-    - Java (java)
-    - JavaScript (javascript)
-    - PHP (php)
-    - Perl (perl)
-    - Python (python)
-    - Ruby (ruby)
-    - SQL (sql)
-
-### 3. BlockQuote (인용문)
-
-~~~
-> This is a first blockquote
-~~~
-
-
-
-~~~
->> This is a second blockquote
-~~~
-
-
-
-~~~
->>> This is a third blockquote
-~~~
-
-
-
-
-**blockquote 안에 다른 마크다운 요소를 포함할 수 있다.**
-
-~~~
-> ## This is a h3
-> * list1
-> * list2
->   ~~~
->   code
->   ~~~
-~~~
-
-> 🔍 **결과**
-
-
-
-### 4. 글머리 기호
-
-~~~
-+ 글머리
-  + 글머리2
-    + 글머리3
-      + 글머리 4
-~~~
-
-> 🔍 **결과**
-
-
-
-### 5. 강조
-
-~~~
-*single asterisks*  
-_single underscores_  
-**double asterisks**  
-__double underscores__  
-~~cancelline~~  
-~~~
-
-> 🔍 **결과**
-
-
-
-### 6. 기호표시
-
-Markdown에서 이미 사용되는 기호 표기하기
-
-Markdown 문법에 사용되는 기호를 있는 그대로 표시하고 싶을 경우가 있다.  
-예를 들어 \#을 기호 그대로 사용하고 싶지만 그냥 쓰면 H1 헤더로 출력된다.  
-그런 기호들을 아래에 표기하였다.
-
-~~~
-\   backslash
-*   asterisk
-_   underscore
-{}  curly braces
-[]  square brackets
-()  parentheses
-#   hash mark
-+   plus sign
--   minus sign (hyphen)
-.   dot
-!   exclamation mark
-~~~
-
-이런것들을 사용하고 싶다면 기호앞에 \\(=back slash)를 붙혀주면 된다.  
-
-예 :
-
-### 7. 수평
-
-~~~
-* * *
-
-***
-
-*****
-
-----
-
-- - -
-~~~
-
-> 🔍 **결과**
-
-
-
-### 8. 링크
-
-- 외부 링크   
-[링크 키워드](링크 주소)
-~~~
-예 : [내 블로그](https://khw11044.github.io/about.html)
-~~~
-
-> 🔍 **결과**
-
-
-
-- 자동 링크  
-
-~~~
-예 : <https://khw11044.github.io/about.html>
-~~~
-
-> 🔍 **결과**  
-
-
-
-
-
-### 9. 이미지
-
-이미지 크기 조절은 뒤에 {: width='400' height='400'}
-
-~~~
-![그림1](/assets/img/etc/markdownshow.jpg)
-![그림2](/assets/img/etc/markdownshow.jpg){: width="400" height="400"}
-~~~
-
-> 🔍 **결과**
-
-
-
-
-### 10. 줄바꿈
-
-마크다운에서는 엔터를 한번친다고 줄바꿈이 일어나지 않는다.  
-
-줄 바꿈시 사용
-줄 바꿈시 사용
-
-1. ```<br>``` 사용
-
-~~~
-줄 바꿈시 사용 <br>
-줄 바꿈시 사용
-~~~
-
-> 🔍 **결과**
-
-
-
-2. Enter 2번
-
-~~~
-줄 바꿈시 사용  
-
-
-줄 바꿈시 사용
-~~~
-
->  🔍 **결과**
-
-
-
-3. 스페이스바 2번
-
-~~~
-줄 바꿈시 사용    
-줄 바꿈시 사용
-~~~
-
-> 🔍 **결과**
-
-
-
-### 11. 표
-
-~~~
-| ------ | NumPy | PyTorch |
-| ------ | -------- | ---------- |
-| 선언 | np.array() | torch.FloatTensor, <br/> torch.Tensor()|
-| 차원 확인 | .ndim | .dim()|
-| 크기 확인 | .shape | .size()|
-~~~
-
-> 🔍 **결과**
-
-
-
-### 12. Expander control
-
-마크다운에서 접기/펼치기 가능한 컨트롤 문법  
-마크다운 자체에는 기능이 없고 html을 이용 --> html의 details 사용
-
-~~~html
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
-</div>
-</details>
-~~~
-
-> 🔍 **결과**
-
-
-
-~~~html
-<details>
-<blockquote>
-    숨김숨김
-</blockquote>
-</details>
-~~~
-
-> 🔍 **결과**
-
-
-### 13. 이모지
-
-1. 'Window 키' + ';' 또는 'Window 키' + '.'
-
-2. 복붙 🔗 <http://www.iemoji.com/> 📝✏️✒️💡 🧰 🙋🏻‍♂️
-
-> 🔍 **결과**
-
-🤦‍♂️
-💕🤷‍♂️🎶😢😢💖
-
-
-### 14. 수학수식
-
-[더 자세한 수학수식 사용법](https://khw11044.github.io/blog/blog-etc/2020-12-21-markdown-tutorial2/)
-
-
-~~~
-$$x + y = 1$$
-~~~
-
-> 🔍 **결과**
-
-$$x + y = 1$$
-
-$$\alpha$$
-
-### 15. Highlight
-
-<kbd>hello</kbd>
-
-<a>hello</a>
-
-<code>hello</code>
-
-<mark>hello</mark>
-
-<under>hello</under>
-
-### 16. YouTube
-
-{% include youtubePlayer.html id="ofNzI5b03KA" %}
-
-### 17. Slick
-
-<div class="main_center">
-    <div><img src= "/assets/img/blog/example1/1.JPG" style="width: 500px; height: 500px;"></div>
-    <div><img src="/assets/img/blog/example1/2.JPG" style="width: 500px; height: 500px;"></div>
-    <div><img src= "/assets/img/blog/example1/3.JPG" style="width: 500px; height: 500px;"></div>
-</div>
-<script>
-    $(document).ready(function() {
-        $('.main_center').slick({
-            autoplay : true, /*자동으로 슬라이딩됨*/
-            dots : true, /* 하단 점 버튼 */
-            speed : 300 /* 이미지가 슬라이딩시 걸리는 시간 */,
-            infinite : true,
-            autoplaySpeed : 30000 /* 이미지가 다른 이미지로 넘어 갈때의 텀 */,
-            arrows : true,
-            slidesToShow : 1,
-            slidesToScroll : 1,
-            touchMove : true, /* 마우스 클릭으로 끌어서 슬라이딩 가능여부 */
-            nextArrows : true, /* 넥스트버튼 */
-            prevArrows : true,
-            arrow : true, /*false면 좌우 버튼 없음, true면 좌우 버튼 보임*/
-            fade : false
-        });
-    });
-</script>
-
-### Atom 필수 패키지
-
-[atom-beautify](https://atom.io/packages/atom-beautify)
-: 코드를 정렬해주는 패키지입니다. 상당히 많은 언어를 지원하고 있고, 사용이 간편합니다.
+짜잔~ 댓글기능이 생겼다.
