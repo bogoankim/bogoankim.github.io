@@ -395,9 +395,10 @@ a {
 		<li><strong class="title">IITP Best Global Research Team Award</strong> <br>
 			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
 		</li>
-		<li><strong class="title">IITP Best Global Research Team Award</strong> <br>
-			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
+		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
+			CHI 2024, CHI 2025
 		</li>
+		
 		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
 			<!-- Korea Information Processing Society (KIPS) <span class="dot-sep"></span> 2021  -->
 		<!-- </li> -->
