@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Bogoan Kim"
 classes: wide
 author_profile: true
 ---
