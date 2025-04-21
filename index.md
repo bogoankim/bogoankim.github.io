@@ -8,29 +8,31 @@ author_profile: true
 <style>
   html {
     scroll-behavior: smooth;
+    font-size: 15px;
   }
 
   .section {
-    scroll-margin-top: 100px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    scroll-margin-top: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .section-title {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.75em;
   }
 
   .my_list {
     list-style-type: disc;
-    padding-left: 1.5em;
+    padding-left: 1.25em;
+    margin-top: 0.5em;
   }
 
   .my_list .inner-ul {
     list-style-type: circle;
     padding-left: 1.5em;
-    margin-top: 0.2em;
+    margin-top: 0.25em;
   }
 
   .inner-li {
@@ -44,26 +46,27 @@ author_profile: true
 
   .paper_head {
     vertical-align: top;
-    padding-right: 1em;
+    padding-right: 0.75em;
     font-weight: bold;
     white-space: nowrap;
   }
 
   .paper_content {
-    padding-bottom: 1em;
+    padding-bottom: 0.75em;
   }
 
   table.my_list {
     width: 100%;
+    font-size: 0.95em;
   }
 
   table.my_list td {
     vertical-align: top;
-    padding-bottom: 1em;
+    padding-bottom: 0.75em;
   }
 </style>
 
-<div id="bio" class="section">
+<section id="bio" class="section">
   <h5 class="section-title">About Me</h5>
   <hr class="sep">
   <p>
@@ -73,9 +76,9 @@ author_profile: true
     I’ve published 35 papers (11 SCI-indexed), received multiple fellowships and awards, and actively collaborate internationally.  
     My current focus is on developing AI-assisted systems that support social independence and mental health for underserved populations.
   </p>
-</div>
+</section>
 
-<div id="exp" class="section">
+<section id="exp" class="section">
   <h5 class="section-title">Positions</h5>
   <hr class="sep">
   <ul class="my_list">
@@ -89,15 +92,15 @@ author_profile: true
         <li class="inner-li"><i>Visiting Researcher, School of Computing</i></li>
       </ul>
     </li>
-    <li><strong class="title">Pennsylvania State University</strong>, University Park, PA, USA <span class="dot-sep">&#8226;</span> Oct. 2019 – Feb. 2020
+    <li><strong class="title">Pennsylvania State University</strong>, USA <span class="dot-sep">&#8226;</span> Oct. 2019 – Feb. 2020
       <ul class="inner-ul">
         <li class="inner-li"><i>Visiting Scholar, College of IST</i> (Advisor: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a>)</li>
       </ul>
     </li>
   </ul>
-</div>
+</section>
 
-<div id="edu" class="section">
+<section id="edu" class="section">
   <h5 class="section-title">Education</h5>
   <hr class="sep">
   <ul class="my_list">
@@ -113,9 +116,9 @@ author_profile: true
       </ul>
     </li>
   </ul>
-</div>
+</section>
 
-<div id="pub" class="section">
+<section id="pub" class="section">
   <h5 class="section-title">Publications <small>(* indicates equal contributions)</small></h5>
   <hr class="sep">
   <table class="my_list">
@@ -124,8 +127,8 @@ author_profile: true
       <td class="paper_content">
         <strong class="title">PREVAIL: Personalized Recognition of Discomfort in VR through In-Context Learning</strong><br>
         <strong><u>Bogoan Kim</u></strong>, et al. <br>
-        <span class="venue conf"><strong>IMWUT 2025</strong></span> <span class="dot-sep"></span>
-        [<a href="#">Paper</a>] [<a href="#">Code</a>]
+        <span class="venue conf"><strong>IMWUT 2025</strong></span>
+        <span class="dot-sep"></span> [<a href="#">Paper</a>] [<a href="#">Code</a>]
       </td>
     </tr>
     <tr>
@@ -133,37 +136,37 @@ author_profile: true
       <td class="paper_content">
         <strong class="title">RoutineAid: Gamified Routine Management for Autistic Adults</strong><br>
         <strong><u>Bogoan Kim</u></strong>, et al. <br>
-        <span class="venue conf"><strong>CHI 2024</strong></span> <span class="dot-sep"></span>
-        [<a href="#">PDF</a>] [<a href="#">Demo</a>]
+        <span class="venue conf"><strong>CHI 2024</strong></span>
+        <span class="dot-sep"></span> [<a href="#">PDF</a>] [<a href="#">Demo</a>]
       </td>
     </tr>
     <tr>
       <td class="paper_head"><strong>[C1]</strong></td>
       <td class="paper_content">
         <strong class="title">HearHere: Mitigating Echo Chambers in News Consumption through an AI-based Web System</strong><br>
-        Jeon, Kim, Park, <strong><u>Kim</u></strong>, et al. <br>
-        <span class="venue conf"><strong>CSCW 2024</strong></span> <span class="dot-sep"></span>
-        [<a href="#">PDF</a>]
+        Jeon, Kim, Park, <strong><u>Bogoan Kim</u></strong>, et al. <br>
+        <span class="venue conf"><strong>CSCW 2024</strong></span>
+        <span class="dot-sep"></span> [<a href="#">PDF</a>]
       </td>
     </tr>
   </table>
-</div>
+</section>
 
-<div id="honors" class="section">
+<section id="honors" class="section">
   <h5 class="section-title">Honors & Awards</h5>
   <hr class="sep">
   <ul class="my_list">
     <li><strong class="title">NRF Ph.D. Fellowship</strong> <span class="dot-sep">&#8226;</span> 2022–2024</li>
     <li><strong class="title">Jang Young Sil Postdoctoral Fellowship</strong> <span class="dot-sep">&#8226;</span> 2024</li>
-    <li><strong class="title">ACM CSCW Best Paper Honorable Mention</strong> <span class="dot-sep">&#8226;</span> 2024</li>
+    <li><strong class="title">Best Paper Honorable Mention</strong> <span class="dot-sep">&#8226;</span> ACM CSCW 2024</li>
   </ul>
-</div>
+</section>
 
-<div id="services" class="section">
+<section id="services" class="section">
   <h5 class="section-title">Professional Services</h5>
   <hr class="sep">
   <ul class="my_list">
     <li><strong class="title">Track Co-Chair</strong> <br> ACM SAC <span class="dot-sep">&#8226;</span> 2023–2025</li>
-    <li><strong class="title">Reviewer</strong> <br> CHI, CSCW, WWW, KDD, ICDM, BigData, AAAI</li>
+    <li><strong class="title">Reviewer</strong> <br> CHI, CSCW, WWW, KDD, ICDM, AAAI, etc.</li>
   </ul>
-</div>
+</section>
