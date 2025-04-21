@@ -77,7 +77,7 @@ author_profile: true
 <div id="bio" class="section">
 	<h5 class="section-title">Biography</h5>
 	<hr class="sep">
-	<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. <a href="https://dxd-lab.github.io/">Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by Prof. <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
+	<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
 	</p>
 </div>
 
@@ -89,26 +89,26 @@ author_profile: true
 	<ul class="my_list">
 		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep">&#8226;</span> May 2025 - Present
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> (Advisors: Profs. <a href="https://dxd-lab.github.io/">Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Uichin Lee</a>) </li>
+				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> (Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
 		</li>
 		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep">&#8226;</span> Mar 2025 - Apr. 2025 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> (Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>) </li>
+				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> (Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
 				<!-- <li class="inner-li"> Topic: Large-Scale Hypergraph Learning for Real-World Applications </li> -->
 				<!-- <li class="inner-li"> Advisor: <a href="http://tonghanghang.org/"><strong>Prof. Hanghang Tong</strong></a></li> -->
 			</ul>
 		</li>
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep">&#8226;</span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, College of Information Sciences and Technology (IST)</i> (Advisors: <a href="https://pike.psu.edu/dongwon/">Profs. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Aiping Xiong</a></li>
+				<li class="inner-li"> <i>Visiting Scholar, College of Information Sciences and Technology (IST)</i> (Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
 				<!-- <li class="inner-li"> Topic: Optimization Technique for Large-Batch DNN Training </li> -->
 				<!-- <li class="inner-li"> Advisor: <a href="https://bigdas.hanyang.ac.kr/sang-wook/"><strong>Prof. Sang-Wook Kim</strong></a> </li> -->
 			</ul>
 		</li>
 		<li><strong class="title">Indiana University -- Bloomington</strong>, IN, USA <span class="dot-sep">&#8226;</span> Oct. 2019 - Feb. 2020 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> (Advisors: <a href="https://patshih.luddy.indiana.edu/">Profs. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Georgia C.Frey</a>) </li>
+				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> (Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
 				<!-- <li class="inner-li"> Topic: Data Parallelism Approach for Distributed Deep Learning </li> -->
 				<!-- <li class="inner-li"> Advisor: <a href="https://pike.psu.edu/dongwon/"><strong>Prof. Dongwon Lee</strong></a> </li> -->
 			</ul>
