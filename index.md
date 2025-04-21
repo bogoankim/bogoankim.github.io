@@ -95,7 +95,7 @@ author_profile: true
     padding-right: 0.2em;
     font-weight: bold;
     white-space: nowrap;
-    width: 4em;
+    width: 3.5%;
     text-align: right;
   }
 
