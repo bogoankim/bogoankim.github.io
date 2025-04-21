@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Bogoan Kim (김보관)"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo_bo.jpg"
   bio    : "Postdoctoral Researcher @ KAIST"
   links:
     - label: "Email"
