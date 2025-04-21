@@ -123,7 +123,7 @@ author_profile: true
 
   @media only screen and (max-width: 768px) {
   .author__avatar {
-    margin-bottom: 0.25rem !important; /* 이미지 아래 간격 더 줄임 */
+    margin-bottom: 0.15rem !important; /* 이미지 아래 간격 더 줄임 */
   }
 
   .author__content {
