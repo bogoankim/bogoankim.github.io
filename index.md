@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
   .page-content {
-    font-size: 3px;
+    font-size: 12px;
   }
 
   .section {
@@ -16,9 +16,9 @@ author_profile: true
   }
 
   .section-title {
-    font-size: 1.25rem;
+    font-size: 1.0rem;
     font-weight: 600;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.2em;
   }
 
   .my_list {
