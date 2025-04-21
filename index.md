@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
   .page-content {
-    font-size: 8px;
+    font-size: 3px;
   }
 
   .section {
