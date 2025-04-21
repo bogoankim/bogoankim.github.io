@@ -92,7 +92,7 @@ author_profile: true
   /* [C13] 같은 문헌 코드 스타일 */
   .paper_head {
     vertical-align: top;
-    padding-right: 0.75em;
+    padding-right: 0.2em;
     font-weight: bold;
     white-space: nowrap;
     width: 4em;
@@ -129,7 +129,6 @@ author_profile: true
 
 <div id="exp" class="section">
 	<h5 class="section-title">Positions</h5>
-	<!-- <h5 class="section-title">Research Experiences</h5> -->
 	<hr class="sep">
 	<ul class="my_list">
 		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
