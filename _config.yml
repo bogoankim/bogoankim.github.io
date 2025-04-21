@@ -61,8 +61,8 @@ plugins:
 author:
   name       : "Bogoan Kim"
   avatar     : "/assets/images/bio-photo_bo.jpg"
-  bio        : "Post-doc. @ KAIST"
-  location   : "Daejeon, Korea"
+  bio        : "Post-doc. @ Hanyang University"
+  location   : "Seoul, Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
