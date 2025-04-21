@@ -79,10 +79,8 @@ author_profile: true
 <div id="bio" class="section">
 	<h5 class="section-title">About Me</h5>
 	<hr class="sep">
-	<p> I am an Assistant Professor in <a href="https://cse.cau.ac.kr">the School of Computer Science and Engineering at Chung-Ang University (CAU)</a>, where I am leading the <a href="https://sites.google.com/view/cau-dmis-lab/home">Data Mining and Intelligence Systems (DMAIS) Lab </a>.
-	Prior to joining CAU, I worked as a Postdoctoral Researcher at <a href="https://cs.illinois.edu">the Department of Computer Science at University of Illinois at Urbana-Champaign (UIUC)</a> with <a href="https://www.idea-isail.com/people.html">Prof. Hanghang Tong</a>. 
-	I received my Ph.D. degree in Computer Science from <a href="https://www.hanyang.ac.kr">Hanyang University</a> under the supervision of <a href="https://bigdas.hanyang.ac.kr/sang-wook/">Prof. Sang-Wook Kim</a>. 
-	My research interests mainly lie in data mining and machine learning on various types of data (including but not limited to graph, hypergraph, text, image, and time-series) with a special focus on exploring knowledge for real-world applications.
+	<p> I am a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, currently supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. <a href="https://scholar.google.co.kr/citations?user=W6dBWJkAAAAJ&hl=en">Hwajung Hong </a>.
+	I received my Ph.D. degree in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where I was supported by the NRF of Korea Ph.D. Fellowship under the supervision of Prof. <a href="https://scholar.google.com/citations?user=htyp0xsAAAAJ&hl=en&authuser=1">Kyungsik Han. My research centers on HCI and digital health. I design and develop data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. Emphasizing the interplay between technological and social systems, my work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
 	<br>
 </div>
 
