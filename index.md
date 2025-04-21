@@ -10,15 +10,20 @@ author_profile: true
     line-height: 1.5;
   }
 
- /* 각 section 내부 문단 글씨 더 작게 */
-  .section p {
-    font-size: 0.63em;
-  }
+ /* 전체 section 본문 글자 크기 조정 */
+.section p,
+.section li,
+.section td,
+.section .inner-li,
+.section .paper_content {
+  font-size: 0.85em;
+}
 
   .section {
     scroll-margin-top: 10px;
-    margin-top: 20px;
-    margin-bottom: 16px;
+    margin-top: 0.3em;
+    padding-top: 0.3em;
+    margin-bottom: 4px;
   }
 
   .section-title {
