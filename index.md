@@ -234,24 +234,19 @@ a {
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C10]</strong></td>
+			<td class="paper_head"> <strong>[P9]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>SAGE: A Storage-Based Approach for Scalable and Efficient Sparse Generalized Matrix-Matrix Multiplication </strong> <br> 
-			{Myung-Hwan Jang*, <strong><u>Yunyong Ko*</u></strong>}, Hyuck-Moo Gwon, Ikhyeon Jo, Yongjun Park, and Sang-Wook Kim <br> 
-			<span class="venue conf"><strong>ACM CIKM 2023</strong></span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="https://arxiv.org/pdf/2308.13626.pdf">Paper</a> | <a href="/assets/files/CIKM23-sage-presentation.pdf">Slides</a> ]</span>
+			<strong class='title'>RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autis</strong> <br> 
+			<strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han <br> 
+			<span class="venue conf"><strong>CHI 2023</strong></span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C9]</strong></td>
+			<td class="paper_head"> <strong>[P8]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>KHAN: Knowledge-Aware Hierarchical Attention Networks for Accurate Political Stance Prediction</strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Seongeun Ryu, Soeun Han, Youngseung Jeon, Jaehoon Kim, Sohyun Park, Kyungsik Han, Hanghang Tong, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf">ACM Web Conference (<strong>WWW</strong>) 2023</span> -->
-			<span class="venue conf"><strong>WWW 2023</strong></span>
-			<span class="dot-sep"></span>
-			<span>[ <a href="https://arxiv.org/pdf/2302.12126.pdf">Paper</a> | <a href="https://github.com/yy-ko/khan-www23">Code</a> | <a href="/assets/files/WWW23-khan-presentation.pdf">Slides</a> ]</span>
+			<strong class='title'>VISTA: User-Centered VR Training System for Effectively Deriving Characteristics of Autistic Individuals</strong> <br>  
+			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Mingon Jeong, Taehyoung Noh, Sung-In Kim, Taewan Kim, So-youn Jang, Hee Jeong Yoo, Jennifer G Kim, Hwajung Hong, and Kyungsik Han <br>
+			<span class="venue conf"><strong>VRST 2022</strong></span>
 			</td>
 		</tr>
 		<tr>
