@@ -234,6 +234,11 @@ a {
       <span class="venue conf"><strong>ACM UIST 2023</strong></span>
     </li>
     <li>
+      <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
+      <strong><u>Bogoan Kim</u></strong><br>
+      <span class="venue conf"><strong>ACM UIST 2023</strong></span>
+    </li>
+    <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
       <strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han<br>
       <span class="venue conf"><strong>ACM CHI 2023</strong></span>
@@ -383,11 +388,17 @@ a {
 		<li> <strong class="title">UIST Travel Grant</strong> <br>
 			ACM Symposium on User Interface Software and Technology <span class="dot-sep"></span> 2023
 		</li>
-		<!--<li> <strong class="title">Gary Marsden Travel Award</strong> <br>
+		<li> <strong class="title">Gary Marsden Travel Award</strong> <br>
 			AACM Conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2023
 		</li>
-		<li><strong class="title">Naver Ph.D. Fellowship</strong> <br>
-			Naver Corporation <span class="dot-sep"></span> 2017
+		<li><strong class="title">SK Creative Challenge Finalist</strong> <br>
+			SK C&C <span class="dot-sep"></span> 2022
+		</li>
+		<li><strong class="title">IITP Best Global Research Team Award</strong> <br>
+			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
+		</li>
+		<li><strong class="title">IITP Best Global Research Team Award</strong> <br>
+			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
 		</li>
 		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
 			<!-- Korea Information Processing Society (KIPS) <span class="dot-sep"></span> 2021  -->
