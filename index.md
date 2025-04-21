@@ -213,8 +213,8 @@ a {
 			<td class="paper_head"> <strong>[P12]</strong></td>
 			<td class="paper_content">
 			<strong class='title'>Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong> <br> 
-			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong and Sang-Wook Kim <br> 
-			<span class="venue conf"><strong>CHI 2024</strong>)</span>
+			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong and Kyungsik Han <br> 
+			<span class="venue conf"><strong>CHI 2024</strong></span>
 			</td>
 		</tr>
 		<tr>
