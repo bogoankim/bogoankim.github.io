@@ -260,9 +260,8 @@ a {
     </li>
   </ul>
 </div>
-	
-
-	<!--<table class="my_list">
+<!--
+<table class="my_list">
 		<tr>
 			<td class="paper_head"> <strong>[P13]</strong></td>
 			<td class="paper_content">
@@ -369,8 +368,8 @@ a {
 			<span class="venue conf"><strong>ACM UMAP 2018</strong></span>
 			</td>
 		</tr>
-    </table>-->
-
+    </table>
+-->
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
