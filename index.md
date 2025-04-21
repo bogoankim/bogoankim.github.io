@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "Bogoan Kim"
 classes: wide
 author_profile: true
 ---
 
 <style>
   .page-content {
-    font-size: 15px;
+    font-size: 12px;
   }
 
   .section {
