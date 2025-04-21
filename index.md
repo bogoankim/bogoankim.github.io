@@ -260,8 +260,8 @@ a {
     </li>
   </ul>
 </div>
-	<!-- <span class="year"><strong>Preprints</strong></span> -->
-	<!-- <span class="year"><strong>2024 and Forthcoming</strong></span> -->
+	
+
 	<!--<table class="my_list">
 		<tr>
 			<td class="paper_head"> <strong>[P13]</strong></td>
@@ -369,8 +369,7 @@ a {
 			<span class="venue conf"><strong>ACM UMAP 2018</strong></span>
 			</td>
 		</tr>
-    </table>
-</div> -->
+    </table>-->
 
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
