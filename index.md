@@ -387,7 +387,7 @@ a {
 			ACM Symposium on User Interface Software and Technology <span class="dot-sep"></span> 2023
 		</li>
 		<li> <strong class="title">Gary Marsden Travel Award</strong> <br>
-			AACM Conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2023
+			ACM Conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2023
 		</li>
 		<li><strong class="title">SK Creative Challenge Finalist</strong> <br>
 			SK C&C <span class="dot-sep"></span> 2022
