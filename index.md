@@ -9,6 +9,11 @@ author_profile: true
     font-size: 12px;
   }
 
+  /* 각 section 내부 문단 글씨 더 작게 */
+  .section p {
+    font-size: 0.93em;
+  }
+
   .section {
     scroll-margin-top: 10px;
     padding-top: 2px;
@@ -16,9 +21,10 @@ author_profile: true
   }
 
   .section-title {
-    font-size: 1.3rem;
-    font-weight: 600;
-    margin-bottom: 0.05em;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.4em;
   }
 
   .my_list {
@@ -49,8 +55,8 @@ author_profile: true
     white-space: nowrap;
   }
 
-  .paper_content {
-    padding-bottom: 0.75em;
+  .paper_content .page__content {
+    margin-top: 10px !important;
   }
 
   table.my_list {
