@@ -126,6 +126,10 @@ author_profile: true
     color: #6D4C41; /* 고동색: IEEE TKDE 등 */
 }
 
+a {
+  color: #4285f4;
+}
+
 </style>
 
 <div id="bio" class="section">
