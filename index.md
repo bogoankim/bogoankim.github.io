@@ -385,10 +385,8 @@ author_profile: true
     </table>
 </div>
 
-
-
 <div id="honors" class="section">
-    <h5>Honors & Awards</h5>
+    <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
 	<ul class="my_list">
 		<li> <strong class="title">Scholarship and Teaching for Engineering Postdocs (STEP)</strong> <br>
@@ -419,7 +417,7 @@ author_profile: true
 </div>
 
 <div id="services" class="section">
-    <h5>Professional Services</h5>
+    <h5 class="section-title">Professional Services</h5>
     <hr class="sep">
 	<ul class="my_list">
 		<li> <strong class="title">Track Co-Chair</strong> <br>
