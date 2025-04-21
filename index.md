@@ -1,17 +1,17 @@
 ---
 layout: single
+title: "Bogoan Kim"
 classes: wide
 author_profile: true
 ---
 
 <style>
-  html {
-    scroll-behavior: smooth;
+  .page-content {
     font-size: 15px;
   }
 
   .section {
-    scroll-margin-top: 40px;
+    scroll-margin-top: 80px;
     padding-top: 6px;
     padding-bottom: 6px;
   }
@@ -19,19 +19,19 @@ author_profile: true
   .section-title {
     font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.5em;
   }
 
   .my_list {
     list-style-type: disc;
     padding-left: 1.25em;
-    margin-top: 0.5em;
+    margin-top: 0.25em;
   }
 
   .my_list .inner-ul {
     list-style-type: circle;
     padding-left: 1.5em;
-    margin-top: 0.25em;
+    margin-top: 0.2em;
   }
 
   .inner-li {
