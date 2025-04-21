@@ -215,11 +215,49 @@ a {
 
 
 <div id="pub" class="section">
-<h5 class="section-title">Publications <small>(* indicates equal contributions)</small></h5>
-<hr class="sep">
+	<h5 class="section-title">Selected Publications <small>(* indicates equal contributions)</small></h5>
+	<hr class="sep">
+	<ul class="my_list">
+    <li>
+      <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
+      {Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM CHI 2025</strong></span>
+    </li>
+    <li>
+      <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
+      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM CHI 2024</strong></span>
+    </li>
+    <li>
+      <strong class="title">V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong><br>
+      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Jennifer G Kim, Hwajung Hong, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM UIST 2023</strong></span>
+    </li>
+    <li>
+      <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
+      <strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM CHI 2023</strong></span>
+    </li>
+    <li>
+      <strong class="title">VISTA: User-Centered VR Training System for Effectively Deriving Characteristics of Autistic Individuals</strong><br>
+      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Mingon Jeong, Taehyoung Noh, Sung-In Kim, Taewan Kim, So-youn Jang, Hee Jeong Yoo, Jennifer G Kim, Hwajung Hong, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM VRST 2022</strong></span>
+    </li>
+    <li>
+      <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Direction</strong><br>
+      <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
+      <span class="venue journal"><strong>PLoS ONE</strong> (SCIE, 2021)</span>
+    </li>
+    <li>
+      <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System</strong><br>
+      Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
+      <span class="venue conf"><strong>ACM CSCW 2021</strong></span>
+    </li>
+  </ul>
+</div>
 	<!-- <span class="year"><strong>Preprints</strong></span> -->
 	<!-- <span class="year"><strong>2024 and Forthcoming</strong></span> -->
-	<table class="my_list">
+	<!--<table class="my_list">
 		<tr>
 			<td class="paper_head"> <strong>[P13]</strong></td>
 			<td class="paper_content">
@@ -327,7 +365,7 @@ a {
 			</td>
 		</tr>
     </table>
-</div>
+</div> -->
 
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
