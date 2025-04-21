@@ -254,7 +254,7 @@ a {
       <span class="venue journal"><strong>PLoS ONE</strong> (SCIE, 2021)</span>
     </li>
     <li>
-      <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System</strong><br>
+      <strong class="title">ChamberBreaker: Mitigating the Echo Chamber and Supporting Information Hygiene through a Gamified Inoculation System</strong><br>
       Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
       <span class="venue conf"><strong>ACM CSCW 2021</strong></span>
     </li>
