@@ -313,20 +313,20 @@ a {
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
 	<ul class="my_list">
-		<li> <strong class="title">Scholarship and Teaching for Engineering Postdocs (STEP)</strong> <br>
-			Grainger College of Engineering (GCOE), University of Illinois at Urbana-Champaign<span class="dot-sep"></span> 2023
+		<li> <strong class="title">Jang Young Sil Postdoctoral Fellowship</strong> <br>
+			Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
 		</li>
-		<li> <strong class="title">Best Ranked Papers of IEEE ICDM</strong> <br>
-			IEEE International Conference on Data Mining<span class="dot-sep"></span> 2021
+		<li> <strong class="title">Hanyang University Postdoctoral Fellowship</strong> <br>
+			Research Institute of Industrial Science, Hanyang University<span class="dot-sep"></span> 2025
 		</li>
-		<li> <strong class="title">Spotlight Presentations of ACM CIKM</strong> <br>
-			ACM International Conference on Information and Knowledge Management<span class="dot-sep"></span> 2021
+		<li> <strong class="title">NRF of Korea Ph.D. Fellowship</strong> <br>
+			National Research Foundation of Korea<span class="dot-sep"></span> 2023
 		</li>
-		<li> <strong class="title">Outstanding Ph.D. Dissertation Award</strong> <br>
-			Research Institute of Industrial Science, Hanyang University <span class="dot-sep"></span> 2021
+		<li> <strong class="title">UIST Travel Grant</strong> <br>
+			ACM Symposium on User Interface Software and Technology <span class="dot-sep"></span> 2023
 		</li>
-		<li> <strong class="title">ACM SIGAPP Student Travel Award</strong> <br>
-			ACM Symposium on Applied Computing <span class="dot-sep"></span> 2019
+		<!--<li> <strong class="title">Gary Marsden Travel Award</strong> <br>
+			AACM Conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2023
 		</li>
 		<li><strong class="title">Naver Ph.D. Fellowship</strong> <br>
 			Naver Corporation <span class="dot-sep"></span> 2017
