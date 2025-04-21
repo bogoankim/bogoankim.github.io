@@ -5,12 +5,43 @@ author_profile: true
 ---
 
 <style>
+  /* 전체 글자 크기 기본 설정 */
   .page-content {
     font-size: 12px;
     line-height: 1.5;
   }
 
-  /* 본문 글자 크기 */
+  /* 제일 첫 섹션(Biography) 위 여백 없애기 */
+  .page-content > .section:first-of-type {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* 각 section 사이 간격 최소화 */
+  .section {
+    scroll-margin-top: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+  }
+
+  /* section 제목 스타일 */
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.4em;
+    margin-top: 0.6em;
+  }
+
+  /* section 제목 아래 선을 더 진하고 선명하게 */
+  hr.sep {
+    border: none;
+    border-top: 1px solid #ccc; /* 은은한 회색 선 */
+    margin: 0.4em 0 0.6em 0; /* 위아래 간격 최소화 */
+  }
+
+  /* 본문 글자 크기 (li, p, td 등 전반) */
   .section p,
   .section li,
   .section td,
@@ -19,31 +50,7 @@ author_profile: true
     font-size: 0.85em;
   }
 
-  /* 각 section 간격 */
-  .section {
-    scroll-margin-top: 10px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-  }
-
-  /* 섹션 제목 스타일 */
-  .section-title {
-    font-size: 1.25rem;
-    font-weight: 600;
-    margin-bottom: 0.4em;
-  }
-
-  /* 섹션 제목 밑 선 (진하게, 간격 조절) */
-  hr.sep {
-    border: none;
-    border-top: 2px solid #555;
-    margin-top: 0.2em !important;
-    margin-bottom: 0.5em !important;
-  }
-
-  /* 리스트 스타일 */
+  /* list 간격 */
   .my_list {
     list-style-type: disc;
     padding-left: 1.25em;
@@ -65,6 +72,7 @@ author_profile: true
     padding: 0 0.25em;
   }
 
+  /* Publication 섹션에서 각 논문 사이 선 제거 */
   .paper_head {
     vertical-align: top;
     padding-right: 0.75em;
@@ -75,9 +83,9 @@ author_profile: true
   .paper_content {
     padding-top: 1em;
     padding-bottom: 0.5em;
+    border-bottom: none !important;
   }
 
-  /* publication 내부 table 스타일 */
   table.my_list {
     width: 100%;
     font-size: 0.95em;
@@ -88,14 +96,17 @@ author_profile: true
     padding-bottom: 0.75em;
   }
 
-  /* publication 섹션에서 논문 간 선 제거 */
-  #pub table.my_list tr {
-    border-bottom: none !important;
+  /* 좌측 이름 크기 및 색상 수정 */
+  .author__name {
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    color: #000 !important;
   }
 
-  /* 왼쪽 이름 폰트 크기 */
-  .author__name {
-    font-size: 1.4rem !important;
+  /* 좌측 프로필 이미지: 라운드 사각형 */
+  .author__avatar img {
+    border-radius: 12px !important;
+    object-fit: cover;
   }
 </style>
 
