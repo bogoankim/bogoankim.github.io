@@ -117,6 +117,15 @@ author_profile: true
     border-radius: 12px !important;
     object-fit: cover;
   }
+
+  .venue.conf strong {
+    color: #e53935; /* 붉은색: CHI 2025 등 */
+}
+
+  .venue.journal strong {
+    color: #6D4C41; /* 고동색: IEEE TKDE 등 */
+}
+
 </style>
 
 <div id="bio" class="section">
@@ -187,12 +196,12 @@ author_profile: true
 		<tr>
 			<td class="paper_head"> <strong>[C13]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>CROWN: A Novel Approach to Comprehending Users' Preferences for Accurate Personalized News Recommendation</strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Seongeun Ryu, and Sang-Wook Kim <br> 
-			<span class="venue conf"><strong>WWW 2025</strong></span>
-			<span class="dot-sep"></span>
-			<span>[ <a href="https://arxiv.org/pdf/2310.09401.pdf">Paper</a> | <a href="https://github.com/seongeunryu/crown-www25">Code</a> | <a href="#">Slides</a> | <a href="#">Poster</a> ]</span> <br>
-			<span class="award">Selected as an Oral Presentation of WWW 2025</span>
+			<strong class='title'>"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong>
+			<br> 
+			{Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han <br> 
+			<span class="venue conf"><strong>CHI 2025</strong></span>
+			#<br>
+			#<span class="award">Selected as an Oral Presentation of WWW 2025</span>
 			</td>
 		</tr>
 		<tr>
