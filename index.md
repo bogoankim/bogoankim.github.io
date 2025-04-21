@@ -260,7 +260,7 @@ a {
 		<tr>
 			<td class="paper_head"> <strong>[P6]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>hamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation 				System</strong> <br> 
+			<strong class='title'>ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation 				System</strong> <br> 
 			Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han <br> 
 			<span class="venue conf"><strong>ACM CSCW 2021</strong></span>
 			</td>
