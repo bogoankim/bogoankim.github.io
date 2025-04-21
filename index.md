@@ -114,6 +114,8 @@ author_profile: true
 
   /* 좌측 이미지: 라운드 사각형 */
   .author__avatar img {
+    width: 140px !important;
+    height: auto !important;
     border-radius: 12px !important;
     object-fit: cover;
   }
