@@ -121,12 +121,28 @@ author_profile: true
     object-fit: cover;
   }
 
+  /* 📱 모바일에서 좌측 프로필 여백 및 폰트 조정 */
+  @media only screen and (max-width: 768px) {
+  .author__avatar {
+    margin-bottom: 0.5rem !important; /* 이미지 아래 간격 줄임 */
+  }
+
+  .author__name {
+    margin-bottom: 0.25rem !important; /* 이름과 직책 사이 간격 줄임 */
+    font-size: 0.95rem !important;     /* 모바일에서 살짝 더 작게 */
+  }
+
+  .author__bio {
+    margin-bottom: 0.25rem !important; /* 직책 아래 간격 줄임 */
+  }
+}
+
   .venue.conf strong {
-    color: #e53935; /* 붉은색: 학회 */
+    color: #9b0000; /* 붉은색: 학회 */
 }
 
   .venue.journal strong {
-    color: #6D4C41; /* 고동색: 저널 */
+    color: #0056d2; /* 고동색: 저널 */
 }
 
 a {
