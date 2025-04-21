@@ -21,9 +21,10 @@ author_profile: true
 
   .section {
     scroll-margin-top: 10px;
-    margin-top: 0.3em;
-    padding-top: 0.3em;
-    margin-bottom: 4px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 0.5em;  /* ↓ 간격 조절용 여백 */
+    margin-bottom: 0.5em;
   }
 
   .section-title {
