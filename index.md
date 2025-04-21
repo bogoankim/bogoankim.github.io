@@ -200,8 +200,6 @@ author_profile: true
 			<br> 
 			{Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han <br> 
 			<span class="venue conf"><strong>CHI 2025</strong></span>
-			#<br>
-			#<span class="award">Selected as an Oral Presentation of WWW 2025</span>
 			</td>
 		</tr>
 		<tr>
