@@ -206,7 +206,7 @@ a {
 			<strong class='title'>"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong>
 			<br> 
 			{Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han <br> 
-			<span class="venue conf"><strong>CHI 2025</strong></span>
+			<span class="venue conf"><strong>ACM CHI 2025</strong></span>
 			</td>
 		</tr>
 		<tr>
@@ -214,7 +214,7 @@ a {
 			<td class="paper_content">
 			<strong class='title'>Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong> <br> 
 			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong and Kyungsik Han <br> 
-			<span class="venue conf"><strong>CHI 2024</strong></span>
+			<span class="venue conf"><strong>ACM CHI 2024</strong></span>
 			</td>
 		</tr>
 		<tr>
@@ -228,9 +228,9 @@ a {
 		<tr class="paper" style="border-bottom: 0px;">
 			<td class="paper_head"> <strong>[P10]</strong></td>
 			<td class="paper_content">
-				<strong class='title'>-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong> <br> 
+				<strong class='title'>V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong> <br> 
 				<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Jennifer G Kim, Hwajung Hong, and Kyungsik Han <br> 
-				<span class="venue conf"><strong>UIST 2023</strong></span>
+				<span class="venue conf"><strong>ACM UIST 2023</strong></span>
 			</td>
 		</tr>
 		<tr>
@@ -238,7 +238,7 @@ a {
 			<td class="paper_content">
 			<strong class='title'>RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autis</strong> <br> 
 			<strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han <br> 
-			<span class="venue conf"><strong>CHI 2023</strong></span>
+			<span class="venue conf"><strong>ACM CHI 2023</strong></span>
 			</td>
 		</tr>
 		<tr>
@@ -246,115 +246,64 @@ a {
 			<td class="paper_content">
 			<strong class='title'>VISTA: User-Centered VR Training System for Effectively Deriving Characteristics of Autistic Individuals</strong> <br>  
 			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Mingon Jeong, Taehyoung Noh, Sung-In Kim, Taewan Kim, So-youn Jang, Hee Jeong Yoo, Jennifer G Kim, Hwajung Hong, and Kyungsik Han <br>
-			<span class="venue conf"><strong>VRST 2022</strong></span>
+			<span class="venue conf"><strong>ACM VRST 2022</strong></span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C8]</strong></td>
+			<td class="paper_head"> <strong>[P7]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>RealGraph<sup>GPU</sup>: A High-Performance GPU-Based Graph Engine toward Large-Scale Real-World Network Analysis</strong> <br> 
-			Myung-Hwan Jang, <strong><u>Yunyong Ko</u></strong>, Dongkyu Jeong, Jeong-Min Park, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf"><strong>ACM CIKM 2022</strong> (Short Paper)</span> -->
-			<span class="venue conf"><strong>ACM CIKM 2022</strong> (Short Paper)</span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/CIKM22-realgraph-paper.pdf">Paper</a> | <a href="/assets/files/CIKM22-realgraph-poster.pdf">Poster</a> ]</span>
+			<strong class='title'>A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Direction</strong> <br> 
+			<strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han <br> 
+			<span class="venue journal"> <strong>PLoS ONE</strong> (SCIE, 2021)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C7]</strong></td>
+			<td class="paper_head"> <strong>[P6]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>Not All Layers Are Equal: A Layer-Wise Adaptive Approach Toward Large-Scale DNN Training </strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Dongwon Lee, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf">ACM Web Conference (<strong>WWW</strong>) 2022</span> -->
-			<span class="venue conf"><strong>WWW 2022</strong></span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/WWW22-lena-paper.pdf">Paper</a> | <a href="https://github.com/yy-ko/lena-www22">Code</a> | <a href="/assets/files/WWW22-lena-presentation.pdf">Slides</a> ]</span>
+			<strong class='title'>hamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation 				System</strong> <br> 
+			Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han <br> 
+			<span class="venue conf"><strong>ACM CSCW 2021</strong></span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C6]</strong></td>
+			<td class="paper_head"> <strong>[P5]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>D-FEND: A Diffusion-Based Fake News Detection Framework for News Articles Related to COVID-19</strong> <br> 
-			Soeun Han, <strong><u>Yunyong Ko</u></strong>, Yusim Kim, Heejin Park, Seongsu Oh, and Sang-Wook Kim<br> 
-			<span class="venue conf"><strong>ACM SAC 2022</strong></span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/SAC22-dfend-paper.pdf">Paper</a> | <a href="/assets/files/SAC22-dfend-presentation.pdf">Slides</a> ]</span>
+			<strong class='title'>Usability Assessment of a Mobile Health Intervention for Increasing Physical Activity in Autistic Adults</strong> <br> 
+			Daehyoung Lee, Georgia C Frey, Aehong Min, <strong><u>Bogoan Kim</u></strong>, Donneta J Cothran, Scott Bellini, Kyungsik Han, and Patrich C 				Shih<br> 
+			<span class="venue journal"> <strong>Health Informatics Journal</strong> (SCIE, 2020)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C5]</strong></td>
+			<td class="paper_head"> <strong>[P4]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>MASCOT: A Quantization Framework for Efficient Matrix Factorization in Recommender Systems </strong> <br> 
-			{<strong><u>Yunyong Ko*</u></strong>, Jae-Su Yu*}, Hong-Kyun Bae, Yongjun Park, Dongwon Lee, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf">IEEE International Conference on Data Mining (<strong>IEEE ICDM</strong>) 2021</span> -->
-			<span class="venue conf"><strong>IEEE ICDM 2021</strong></span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/ICDM21-mascot-paper.pdf">Paper</a> <span> | </span> <a href="https://github.com/yy-ko/mascot-icdm21">Code</a> <span>|</span> <a href="/assets/files/ICDM21-mascot-presentation.pdf">Slides</a> ]</span> <br>
-			<span class="award">Selected as One of the Best-ranked Papers of ICDM 2021 for fast-track journal invitation</span>
+			<strong class='title'>PuzzleWalk: A Theory-Driven Iterative Design Inquiry of a Mobile Game for Promoting Physical Activity in Autistic 				Adults</strong> <br> 
+			<strong><u>Bogoan Kim</u></strong>, Daehyoung Lee, Aehong Min, Seungwon Paik, Georgia C Frey, Scott Bellini, Kyungsik Han and Patrick C Shih <br> 
+			<span class="venue journal"> <strong>PLoS ONE</strong> (SCIE, 2020)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C4]</strong></td>
+			<td class="paper_head"> <strong>[P3]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>ALADDIN: Asymmetric Centralized Training for Distributed Deep Learning </strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Kibong Choi, Hyunseung Jei, Dongwon Lee, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf">ACM International Conference on Information and Knowledge Management (<strong>ACM CIKM</strong>) 2021</span>  -->
-			<span class="venue conf"><strong>ACM CIKM 2021</strong></span>
-			<span class="dot-sep"></span>
-			<span>[ <a href="/assets/files/CIKM21-aladdin-paper.pdf">Paper</a> <span>|</span> <a href="/assets/files/CIKM21-aladdin-poster.pdf">Poster</a> <span>|</span> <a href="/assets/files/CIKM21-aladdin-presentation.pdf">Slides</a> <span>|</span> <a href="https://sites.google.com/view/aladdin-proofs/home?authuser=0">Appendix</a> ]</span> <br>
-			<span class="award">Selected as a Spotlight Presentation of CIKM 2021 </span>
+			<strong class='title'>No More One Liners: Bringing Context into Emoji Recommendation </strong> <br> 
+			Joongyum Kim, Taesik Gong, <strong><u>Bogoan Kim</u></strong>, Jaeyeon Park, Woojeong Kim, Evey Huang, Kyungsik Han, Juho Kim, Jeonggil Ko, 
+			and Sung-Ju Lee <br> 
+			<span class="venue journal"> <strong>ACM Transactions on Social Computing</strong> (2020)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C3]</strong></td>
+			<td class="paper_head"> <strong>[P2]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>An In-Depth Analysis on Distributed Training of Deep Neural Networks </strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Kibong Choi, Jiwon Seo, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf">IEEE International Parallel and Distributed Processing Symposium (<strong>IEEE IPDPS</strong>) 2021</span> -->
-			<span class="venue conf"><strong>IEEE IPDPS 2021</strong></span>
-			<span class="dot-sep"></span>
-			<span>[ <a href="/assets/files/IPDPS21-analysis-paper.pdf">Paper</a> <span>|</span> <a href="/assets/files/IPDPS21-analysis-presentation.pdf">Slides</a> ]</span> <br>
+			<strong class='title'>TM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong> <br> 
+			<strong><u>Bogoan Kim</u></strong>, Seok-Won Lee, Hwajung Hong, and Kyungsik Han <br> 
+			<span class="venue journal"> <strong>IEEE Access</strong> (SCIE, 2019)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C2]</strong></td>
+			<td class="paper_head"> <strong>[P1]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>Influence Maximization for Effective Advertisement in Social Networks: Problem, Solution, and Evaluation</strong> <br> 
-			Suk-Jin Hong, <strong><u>Yunyong Ko</u></strong>, Moon-Jeung Joe, and Sang-Wook Kim <br> 
-			<span class="venue conf"><strong>ACM SAC 2019</strong></span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/SAC19-infmax-paper.pdf">Paper</a> ]</span>
-			</td>
-		</tr>
-		<tr>
-			<td class="paper_head"> <strong>[J2]</strong></td>
-			<td class="paper_content">
-			<strong class='title'>Efficient and Effective Influence Maximization in Social Networks: A Hybrid-Approach </strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Kyung-Jae Cho, and Sang-Wook Kim <br> 
-			<span class="venue journal"> <strong>Information Sciences</strong> (SCIE, 2018)</span> 
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/INS18-hybrid-paper.pdf">Paper</a> ]</span> <br>
-			</td>
-		</tr>
-		<tr>
-			<td class="paper_head"> <strong>[J1]</strong></td>
-			<td class="paper_content">
-			<strong class='title'>Influence Maximization in Social Networks: A Target-Oriented Estimation</strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Dong-Kyu Chae, and Sang-Wook Kim <br> 
-			<span class="venue journal"> <strong>Journal of Information Science</strong> (SCIE, 2018)</span> 
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/JIS18-target-paper.pdf">Paper</a> ]</span> <br>
-			</td>
-		</tr>
-		<tr>
-			<td class="paper_head"> <strong>[C1]</strong></td>
-			<td class="paper_content">
-			<strong class='title'>Accurate Path-Based Influence Maximization in Social Networks </strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Dong-Kyu Chae, and Sang-Wook Kim <br> 
-			<!-- <span class="venue conf"><strong>WWW 2016</strong> (Short Paper)</span> -->
-			<span class="venue conf"><strong>WWW 2016</strong> (Short Paper)</span>
-			<span class="dot-sep"></span> 
-			<span>[ <a href="/assets/files/WWW16-path-paper.pdf">Paper</a> ]</span> <br>
+			<strong class='title'>Photos Don’t Have Me, But How Do You Know Me?: Analyzing and Predicting Users on Instagra</strong> <br> 
+			Kyungsik Han, Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Junho Song, and Sang-Wook Kim <br> 
+			<span class="venue conf"><strong>ACM UMAP 2018</strong></span>
 			</td>
 		</tr>
     </table>
