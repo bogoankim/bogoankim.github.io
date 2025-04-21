@@ -59,9 +59,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bogoan Kim (김보관)"
-  avatar : "/assets/images/bio-photo_bo.jpg"
-  bio    : "Postdoctoral Researcher @ KAIST"
+  name       : "Bogoan Kim (김보관)"
+  avatar     : "/assets/images/bio-photo_bo.jpg"
+  bio        : "Post-doc. @ KAIST"
+  location   : "Daejeon, Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
