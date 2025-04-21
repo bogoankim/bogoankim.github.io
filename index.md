@@ -107,7 +107,7 @@ author_profile: true
 
   /* 좌측 이름 텍스트 크기 축소 + 검정 */
   .author__name {
-    font-size: 1.25rem !important;
+    font-size: 1.0rem !important;
     font-weight: 700 !important;
     color: #000 !important;
   }
@@ -247,9 +247,6 @@ author_profile: true
 			<span>[ <a href="https://arxiv.org/pdf/2302.12126.pdf">Paper</a> | <a href="https://github.com/yy-ko/khan-www23">Code</a> | <a href="/assets/files/WWW23-khan-presentation.pdf">Slides</a> ]</span>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C8]</strong></td>
 			<td class="paper_content">
@@ -261,8 +258,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/CIKM22-realgraph-paper.pdf">Paper</a> | <a href="/assets/files/CIKM22-realgraph-poster.pdf">Poster</a> ]</span>
 			</td>
 		</tr>
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C7]</strong></td>
 			<td class="paper_content">
@@ -274,9 +269,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/WWW22-lena-paper.pdf">Paper</a> | <a href="https://github.com/yy-ko/lena-www22">Code</a> | <a href="/assets/files/WWW22-lena-presentation.pdf">Slides</a> ]</span>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C6]</strong></td>
 			<td class="paper_content">
@@ -287,9 +279,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/SAC22-dfend-paper.pdf">Paper</a> | <a href="/assets/files/SAC22-dfend-presentation.pdf">Slides</a> ]</span>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C5]</strong></td>
 			<td class="paper_content">
@@ -302,9 +291,6 @@ author_profile: true
 			<span class="award">Selected as One of the Best-ranked Papers of ICDM 2021 for fast-track journal invitation</span>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C4]</strong></td>
 			<td class="paper_content">
@@ -317,9 +303,6 @@ author_profile: true
 			<span class="award">Selected as a Spotlight Presentation of CIKM 2021 </span>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C3]</strong></td>
 			<td class="paper_content">
@@ -331,9 +314,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/IPDPS21-analysis-paper.pdf">Paper</a> <span>|</span> <a href="/assets/files/IPDPS21-analysis-presentation.pdf">Slides</a> ]</span> <br>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C2]</strong></td>
 			<td class="paper_content">
@@ -344,7 +324,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/SAC19-infmax-paper.pdf">Paper</a> ]</span>
 			</td>
 		</tr>
-
 		<tr>
 			<td class="paper_head"> <strong>[J2]</strong></td>
 			<td class="paper_content">
@@ -355,9 +334,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/INS18-hybrid-paper.pdf">Paper</a> ]</span> <br>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[J1]</strong></td>
 			<td class="paper_content">
@@ -368,9 +344,6 @@ author_profile: true
 			<span>[ <a href="/assets/files/JIS18-target-paper.pdf">Paper</a> ]</span> <br>
 			</td>
 		</tr>
-
-
-
 		<tr>
 			<td class="paper_head"> <strong>[C1]</strong></td>
 			<td class="paper_content">
