@@ -130,28 +130,26 @@ author_profile: true
 	<ul class="my_list">
 		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> (Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
+				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> 
+					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
 		</li>  
 		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - Apr. 2025 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> (Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
-				<!-- <li class="inner-li"> Topic: Large-Scale Hypergraph Learning for Real-World Applications </li> -->
-				<!-- <li class="inner-li"> Advisor: <a href="http://tonghanghang.org/"><strong>Prof. Hanghang Tong</strong></a></li> -->
+				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> 
+					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
 			</ul>
 		</li>
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, College of Information Sciences and Technology (IST)</i> (Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
-				<!-- <li class="inner-li"> Topic: Optimization Technique for Large-Batch DNN Training </li> -->
-				<!-- <li class="inner-li"> Advisor: <a href="https://bigdas.hanyang.ac.kr/sang-wook/"><strong>Prof. Sang-Wook Kim</strong></a> </li> -->
+				<li class="inner-li"> <i>Visiting Scholar, College of Information Sciences and Technology (IST)</i> 
+					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
 			</ul>
 		</li>
 		<li><strong class="title">Indiana University -- Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> (Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
-				<!-- <li class="inner-li"> Topic: Data Parallelism Approach for Distributed Deep Learning </li> -->
-				<!-- <li class="inner-li"> Advisor: <a href="https://pike.psu.edu/dongwon/"><strong>Prof. Dongwon Lee</strong></a> </li> -->
+				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> 
+					(Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
 			</ul>
 		</li>
 	</ul>
@@ -163,10 +161,9 @@ author_profile: true
 	<ul class="my_list">
 		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Aug. 2021
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Ph.D in Artificial Intelligence</i> (Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
+				<li class="inner-li"> <i>Ph.D in Artificial Intelligence</i> 
+					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
-				<!-- <li class="inner-li"> Advisor: <a href="https://bigdas.hanyang.ac.kr/sang-wook/">Prof. Sang-Wook Kim</a> </li> -->
-				<!-- <li class="inner-li"> <i>Received the <strong>Outstanding Ph.D. Dissertation Award</strong></i> </li> -->
 			</ul>
 		</li>
 		<li><strong class="title"> University of Minnesota -- Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
