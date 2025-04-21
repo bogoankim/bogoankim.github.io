@@ -11,12 +11,12 @@ author_profile: true
 
   .section {
     scroll-margin-top: 10px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
   }
 
   .section-title {
-    font-size: 1.0rem;
+    font-size: 1.3rem;
     font-weight: 600;
     margin-bottom: 0.2em;
   }
