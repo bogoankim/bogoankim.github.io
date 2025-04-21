@@ -339,7 +339,7 @@ a {
 		<!-- </li> -->
 	</ul>
 </div>
-
+<!--
 <div id="services" class="section">
     <h5 class="section-title">Professional Services</h5>
     <hr class="sep">
@@ -362,3 +362,4 @@ a {
 		</li>
 	</ul>
 </div>
+-->
