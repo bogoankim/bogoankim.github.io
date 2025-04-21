@@ -5,32 +5,52 @@ author_profile: true
 ---
 
 <style>
+  /* 전체 기본 텍스트 설정 */
   .page-content {
     font-size: 12px;
-    line-height: 1.6;
-    margin-top: 0 !important;
+    line-height: 1.5;
   }
 
+  /* Biography 위 여백 제거 */
+  .page-content > .section:first-of-type {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* 섹션 간 여백 최소화 */
   .section {
+    scroll-margin-top: 8px;
     padding-top: 4px;
     padding-bottom: 4px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-top: 1px solid #d0d0d0;
+    margin-top: 0.05em;
+    margin-bottom: 0.05em;
   }
 
-  .section:first-of-type {
-    margin-top: 0px;
-    padding-top: 0px;
-    border-top: none;
-  }
-
+  /* 섹션 제목 스타일 */
   .section-title {
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.3em;
+    margin-top: 0.5em;
   }
 
+  /* 섹션 제목 아래 구분선: 연한 회색 + 얇음 */
+  hr.sep {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 0.3em 0 0.4em 0;
+  }
+
+  /* 본문 글자 크기 */
+  .section p,
+  .section li,
+  .section td,
+  .section .inner-li,
+  .section .paper_content {
+    font-size: 0.85em;
+  }
+
+  /* 리스트 들여쓰기 */
   .my_list {
     list-style-type: disc;
     padding-left: 1.25em;
@@ -47,57 +67,55 @@ author_profile: true
     font-style: italic;
   }
 
-  .inner-li a {
-    font-style: normal; /* Advisor 이름 기울임 해제 */
-  }
-
   .dot-sep::before {
     content: " • ";
-    padding: 0 0.3em;
+    padding: 0 0.25em;
   }
 
+  /* 논문 정보 테이블 */
+  table.my_list {
+    width: 100%;
+    font-size: 0.95em;
+    border-collapse: collapse;
+  }
+
+  table.my_list tr {
+    border: none !important;
+  }
+
+  table.my_list td {
+    vertical-align: top;
+    padding-bottom: 0.75em;
+    border-bottom: none !important;
+  }
+
+  /* [C13] 같은 문헌 코드 스타일 */
   .paper_head {
     vertical-align: top;
     padding-right: 0.75em;
     font-weight: bold;
     white-space: nowrap;
+    width: 4em;
     text-align: right;
-    width: 5%;
   }
 
   .paper_content {
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
-    border-bottom: none !important;
+    padding-top: 0.6em;
+    padding-bottom: 0.4em;
+    border-bottom: none;
   }
 
-  table.my_list {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  table.my_list tr {
-    border-bottom: none !important;
-  }
-
-  table.my_list td {
-    vertical-align: top;
-    padding-bottom: 1em;
-  }
-
+  /* 좌측 이름 텍스트 크기 축소 + 검정 */
   .author__name {
-    font-size: 1.2rem !important;
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+    color: #000 !important;
   }
 
+  /* 좌측 이미지: 라운드 사각형 */
   .author__avatar img {
-    border-radius: 12px;
-    width: 120px !important;
-    height: auto !important;
-  }
-
-  /* dot-sep 중복 방지용 패치 */
-  .dot-sep:first-child::before {
-    content: "" !important;
+    border-radius: 12px !important;
+    object-fit: cover;
   }
 </style>
 
