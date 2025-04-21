@@ -18,7 +18,7 @@ author_profile: true
   .section-title {
     font-size: 1.3rem;
     font-weight: 600;
-    margin-bottom: 0.2em;
+    margin-bottom: 0.05em;
   }
 
   .my_list {
