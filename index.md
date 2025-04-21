@@ -11,9 +11,9 @@ author_profile: true
   }
 
   .section {
-    scroll-margin-top: 80px;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    scroll-margin-top: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
   }
 
   .section-title {
