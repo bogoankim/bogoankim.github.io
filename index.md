@@ -19,19 +19,21 @@ author_profile: true
 
   /* 섹션 간 여백 최소화 */
   .section {
-    scroll-margin-top: 8px;
+    scroll-margin-top: 10px;
     padding-top: 4px;
     padding-bottom: 4px;
-    margin-top: 0.05em;
-    margin-bottom: 0.05em;
-  }
+    margin-top: 0.3em;      /* 섹션 간 간격 더 줄임 */
+    margin-bottom: 0.3em;
+}
+
 
   /* 섹션 제목 스타일 */
   .section-title {
     font-size: 1.25rem;
-    font-weight: 900; /* extrabold 수준으로 굵게 */
-    margin-bottom: 0.4em;
-    color: #000; /* 검정색으로 확실히 강조 */
+    font-weight: 700;  /* 적당한 bold 느낌 (기존보다 덜 두꺼움) */
+    margin-bottom: 0.25em;
+    margin-top: 0em;   /* 위쪽 여백 방지 */
+    color: #000;       /* 확실히 검정색으로 강조 */
 }
 
 
@@ -120,11 +122,11 @@ author_profile: true
   }
 
   .venue.conf strong {
-    color: #e53935; /* 붉은색: CHI 2025 등 */
+    color: #e53935; /* 붉은색: 학회 */
 }
 
   .venue.journal strong {
-    color: #6D4C41; /* 고동색: IEEE TKDE 등 */
+    color: #6D4C41; /* 고동색: 저널 */
 }
 
 a {
