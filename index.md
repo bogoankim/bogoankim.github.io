@@ -141,6 +141,18 @@ author_profile: true
   }
 }
 
+@media only screen and (max-width: 768px) {
+  #bio {
+    margin-top: 0.5rem !important;  /* 여백 줄이기 */
+    padding-top: 0.3rem !important;
+  }
+
+  .section {
+    margin-top: 0.75rem !important;  /* 전체 섹션 간 여백도 축소 */
+    margin-bottom: 0.75rem !important;
+  }
+}
+
   .venue.conf strong {
     color: #0056d2; /* 붉은색: 학회 */
 }
