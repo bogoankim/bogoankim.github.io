@@ -7,42 +7,26 @@ author_profile: true
 <style>
   .page-content {
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 1.6;
+    margin-top: 0 !important;
   }
 
-  /* 전체 section 간격 줄이기 */
   .section {
-    scroll-margin-top: 10px;
     padding-top: 4px;
     padding-bottom: 4px;
-    margin-top: 0.6em;
-    margin-bottom: 0.6em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid #d0d0d0;
   }
 
-  /* Biography 위 여백 더 줄이기 */
-  #bio.section {
-    margin-top: 0.3em !important;
+  .section:first-of-type {
+    margin-top: 0px;
+    padding-top: 0px;
+    border-top: none;
   }
 
-  /* Honors, Services 간격도 줄이기 */
-  #honors.section,
-  #services.section {
-    margin-top: 0.5em !important;
-    margin-bottom: 0.5em !important;
-  }
-
-  /* 본문 글씨 작게 */
-  .section p,
-  .section li,
-  .section td,
-  .section .inner-li,
-  .section .paper_content {
-    font-size: 0.85em;
-  }
-
-  /* 섹션 타이틀 크기 */
   .section-title {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     font-weight: 600;
     margin-bottom: 0.4em;
   }
@@ -63,55 +47,57 @@ author_profile: true
     font-style: italic;
   }
 
-  .dot-sep::before {
-    content: " • ";
-    padding: 0 0.25em;
+  .inner-li a {
+    font-style: normal; /* Advisor 이름 기울임 해제 */
   }
 
-  /* Publications 문헌 코드 (e.g., [C13]) 더 왼쪽으로 */
+  .dot-sep::before {
+    content: " • ";
+    padding: 0 0.3em;
+  }
+
   .paper_head {
     vertical-align: top;
     padding-right: 0.75em;
     font-weight: bold;
     white-space: nowrap;
     text-align: right;
-    padding-left: 0 !important;
-    width: 3em;
+    width: 5%;
   }
 
   .paper_content {
-    padding-top: 0.8em;
-    padding-bottom: 0.5em;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    border-bottom: none !important;
   }
 
   table.my_list {
     width: 100%;
-    font-size: 0.95em;
+    border-collapse: collapse;
+  }
+
+  table.my_list tr {
+    border-bottom: none !important;
   }
 
   table.my_list td {
     vertical-align: top;
-    padding-bottom: 0.75em;
+    padding-bottom: 1em;
   }
 
-  /* 프로필 이름 크기 줄이기 */
   .author__name {
-    font-size: 1.25rem !important;
+    font-size: 1.2rem !important;
   }
 
-  /* 프로필 사진 커지고 살짝 둥근 사각형 */
   .author__avatar img {
-    width: 160px !important;
+    border-radius: 12px;
+    width: 120px !important;
     height: auto !important;
-    border-radius: 12px !important;  /* 둥글기 */
-    object-fit: cover;
   }
 
-  /* 구분선 스타일 */
-  hr.sep {
-    border: 0;
-    border-top: 1px solid #cccccc;  /* 은은한 회색 */
-    margin: 0.5em 0;
+  /* dot-sep 중복 방지용 패치 */
+  .dot-sep:first-child::before {
+    content: "" !important;
   }
 </style>
 
