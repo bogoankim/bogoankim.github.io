@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: "#home"
+  - title: "Bio"
+    url: "#bio"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Honors & Awards"
+    url: "#awards"
+  - title: "CV"
+    url: "#cv"
