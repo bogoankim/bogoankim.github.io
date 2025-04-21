@@ -10,29 +10,40 @@ author_profile: true
     line-height: 1.5;
   }
 
- /* 전체 section 본문 글자 크기 조정 */
-.section p,
-.section li,
-.section td,
-.section .inner-li,
-.section .paper_content {
-  font-size: 0.85em;
-}
+  /* 본문 글자 크기 */
+  .section p,
+  .section li,
+  .section td,
+  .section .inner-li,
+  .section .paper_content {
+    font-size: 0.85em;
+  }
 
+  /* 각 section 간격 */
   .section {
     scroll-margin-top: 10px;
     padding-top: 6px;
     padding-bottom: 6px;
-    margin-top: 0.5em;  /* ↓ 간격 조절용 여백 */
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
   }
 
+  /* 섹션 제목 스타일 */
   .section-title {
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 0.4em;
   }
 
+  /* 섹션 제목 밑 선 (진하게, 간격 조절) */
+  hr.sep {
+    border: none;
+    border-top: 2px solid #555;
+    margin-top: 0.2em !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  /* 리스트 스타일 */
   .my_list {
     list-style-type: disc;
     padding-left: 1.25em;
@@ -66,6 +77,7 @@ author_profile: true
     padding-bottom: 0.5em;
   }
 
+  /* publication 내부 table 스타일 */
   table.my_list {
     width: 100%;
     font-size: 0.95em;
@@ -76,6 +88,12 @@ author_profile: true
     padding-bottom: 0.75em;
   }
 
+  /* publication 섹션에서 논문 간 선 제거 */
+  #pub table.my_list tr {
+    border-bottom: none !important;
+  }
+
+  /* 왼쪽 이름 폰트 크기 */
   .author__name {
     font-size: 1.4rem !important;
   }
