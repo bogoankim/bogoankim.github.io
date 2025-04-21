@@ -12,7 +12,7 @@ author_profile: true
 
  /* 각 section 내부 문단 글씨 더 작게 */
   .section p {
-    font-size: 0.93em;
+    font-size: 0.63em;
   }
 
   .section {
@@ -74,12 +74,10 @@ author_profile: true
   }
 </style>
 
-<!-- 복붙한 전체 HTML 시작 -->
-
 <div id="bio" class="section">
-	<h5 class="section-title">About Me</h5>
+	<h5 class="section-title">Biography</h5>
 	<hr class="sep">
-	<p> I am a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, currently supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. <a href="https://dxd-lab.github.io/">Hwajung Hong</a>. I received my Ph.D. degree in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where I was supported by the NRF of Korea Ph.D. Fellowship under the supervision of Prof. <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>. My research centers on HCI and digital health. I design and develop data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. Emphasizing the interplay between technological and social systems, my work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
+	<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of Prof. <a href="https://dxd-lab.github.io/">Hwajung Hong</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by Prof. <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
 	</p>
 </div>
 
