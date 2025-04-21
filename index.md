@@ -5,43 +5,43 @@ author_profile: true
 ---
 
 <style>
-  /* 전체 글자 크기 기본 설정 */
+  /* 전체 기본 텍스트 설정 */
   .page-content {
     font-size: 12px;
     line-height: 1.5;
   }
 
-  /* 제일 첫 섹션(Biography) 위 여백 없애기 */
+  /* Biography 위 여백 제거 */
   .page-content > .section:first-of-type {
     margin-top: 0 !important;
     padding-top: 0 !important;
   }
 
-  /* 각 section 사이 간격 최소화 */
+  /* 섹션 간 여백 최소화 */
   .section {
-    scroll-margin-top: 10px;
+    scroll-margin-top: 8px;
     padding-top: 4px;
     padding-bottom: 4px;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
+    margin-top: 0.05em;
+    margin-bottom: 0.05em;
   }
 
-  /* section 제목 스타일 */
+  /* 섹션 제목 스타일 */
   .section-title {
     font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.4em;
-    margin-top: 0.6em;
+    margin-bottom: 0.3em;
+    margin-top: 0.5em;
   }
 
-  /* section 제목 아래 선을 더 진하고 선명하게 */
+  /* 섹션 제목 아래 구분선: 연한 회색 + 얇음 */
   hr.sep {
     border: none;
-    border-top: 1px solid #ccc; /* 은은한 회색 선 */
-    margin: 0.4em 0 0.6em 0; /* 위아래 간격 최소화 */
+    border-top: 1px solid #ccc;
+    margin: 0.3em 0 0.4em 0;
   }
 
-  /* 본문 글자 크기 (li, p, td 등 전반) */
+  /* 본문 글자 크기 */
   .section p,
   .section li,
   .section td,
@@ -50,7 +50,7 @@ author_profile: true
     font-size: 0.85em;
   }
 
-  /* list 간격 */
+  /* 리스트 들여쓰기 */
   .my_list {
     list-style-type: disc;
     padding-left: 1.25em;
@@ -72,38 +72,47 @@ author_profile: true
     padding: 0 0.25em;
   }
 
-  /* Publication 섹션에서 각 논문 사이 선 제거 */
-  .paper_head {
-    vertical-align: top;
-    padding-right: 0.75em;
-    font-weight: bold;
-    white-space: nowrap;
-  }
-
-  .paper_content {
-    padding-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: none !important;
-  }
-
+  /* 논문 정보 테이블 */
   table.my_list {
     width: 100%;
     font-size: 0.95em;
+    border-collapse: collapse;
+  }
+
+  table.my_list tr {
+    border: none !important;
   }
 
   table.my_list td {
     vertical-align: top;
     padding-bottom: 0.75em;
+    border-bottom: none !important;
   }
 
-  /* 좌측 이름 크기 및 색상 수정 */
+  /* [C13] 같은 문헌 코드 스타일 */
+  .paper_head {
+    vertical-align: top;
+    padding-right: 0.75em;
+    font-weight: bold;
+    white-space: nowrap;
+    width: 4em;
+    text-align: right;
+  }
+
+  .paper_content {
+    padding-top: 0.6em;
+    padding-bottom: 0.4em;
+    border-bottom: none;
+  }
+
+  /* 좌측 이름 텍스트 크기 축소 + 검정 */
   .author__name {
-    font-size: 1.5rem !important;
+    font-size: 1.25rem !important;
     font-weight: 700 !important;
     color: #000 !important;
   }
 
-  /* 좌측 프로필 이미지: 라운드 사각형 */
+  /* 좌측 이미지: 라운드 사각형 */
   .author__avatar img {
     border-radius: 12px !important;
     object-fit: cover;
