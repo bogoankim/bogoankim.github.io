@@ -201,7 +201,7 @@ a {
 	<!-- <span class="year"><strong>2024 and Forthcoming</strong></span> -->
 	<table class="my_list">
 		<tr>
-			<td class="paper_head"> <strong>[C13]</strong></td>
+			<td class="paper_head"> <strong>[P13]</strong></td>
 			<td class="paper_content">
 			<strong class='title'>"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong>
 			<br> 
@@ -210,33 +210,27 @@ a {
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[C12]</strong></td>
+			<td class="paper_head"> <strong>[P12]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>HyGEN: Regularizing Negative Hyperedge Generation for Accurate Hyperedge Prediction</strong> <br> 
-			Song Kyung Yu, Da Eun Lee, <strong><u>Yunyong Ko</u></strong>, and Sang-Wook Kim <br> 
-			<span class="venue conf"><strong>WWW 2025</strong> (Short Paper)</span>
-			<span class="dot-sep"></span>
-			<span>[ <a href="https://arxiv.org/pdf/2502.05827">Paper</a> | <a href="https://github.com/ssong915/HyGEN">Code</a> | <a href="#">Poster</a> ]</span> <br>
+			<strong class='title'>Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong> <br> 
+			<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong and Sang-Wook Kim <br> 
+			<span class="venue conf"><strong>CHI 2024</strong>)</span>
 			</td>
 		</tr>
 		<tr>
-			<td class="paper_head"> <strong>[J3]</strong></td>
+			<td class="paper_head"> <strong>[P11]</strong></td>
 			<td class="paper_content">
-			<strong class='title'>Enhancing Hyperedge Prediction with Context-Aware Self-Supervised Learning</strong> <br> 
-			<strong><u>Yunyong Ko</u></strong>, Hanghang Tong, and Sang-Wook Kim <br> 
-			<span class="venue journal"> <strong>IEEE TKDE</strong> (SCIE, 2025)</span> 
-			<span class="dot-sep"></span> 
-			<span>[ <a href="https://arxiv.org/pdf/2309.05798.pdf">Paper</a> | <a href="https://github.com/yy-ko/cash">Code</a> ]</span>
+			<strong class='title'>Promoting Self-Efficacy of Individuals With Autism in Practicing Social Skills in the Workplace Using Virtual Reality and Physiological Sensors: Mixed Methods Study</strong> <br> 
+			Sung-In Kim, So-youn Jang, Taewan Kim, <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Taehyung Noh, Mingon Jeong, Kaely Hall, Meelim Kim, Hee Jeong Yoo, Kyungsik Han, Hwajung Hong and Jennifer G Kim <br> 
+			<span class="venue journal"> <strong>JMIR Formative Research</strong> (SCIE, 2024)</span> 
 			</td>
 		</tr>
 		<tr class="paper" style="border-bottom: 0px;">
-			<td class="paper_head"> <strong>[C11]</strong></td>
+			<td class="paper_head"> <strong>[P10]</strong></td>
 			<td class="paper_content">
-				<strong class='title'>HearHere: Mitigating Echo Chambers in News Consumption through an AI-based Web System</strong> <br> 
-				Youngseung Jeon, Jaehoon Kim, Sohyun Park, <strong><u>Yunyong Ko</u></strong>, Seongeun Ryu, Sang-Wook Kim, and Kyungsik Han <br> 
-				<span class="venue conf"><strong>ACM CSCW 2024</strong></span>
-				<span class="dot-sep"></span> 
-				<span>[ <a href="https://arxiv.org/pdf/2402.18222.pdf">Paper</a> | <a href="#">Slides</a> ]</span>
+				<strong class='title'>-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong> <br> 
+				<strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Jennifer G Kim, Hwajung Hong, and Kyungsik Han <br> 
+				<span class="venue conf"><strong>UIST 2023</strong></span>
 			</td>
 		</tr>
 		<tr>
