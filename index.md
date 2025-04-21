@@ -6,11 +6,11 @@ author_profile: true
 
 <style>
   .page-content {
-    font-size: 10px;
+    font-size: 8px;
   }
 
   .section {
-    scroll-margin-top: 80px;
+    scroll-margin-top: 10px;
     padding-top: 6px;
     padding-bottom: 6px;
   }
