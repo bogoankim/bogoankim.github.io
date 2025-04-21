@@ -29,10 +29,11 @@ author_profile: true
   /* 섹션 제목 스타일 */
   .section-title {
     font-size: 1.25rem;
-    font-weight: 600;
-    margin-bottom: 0.3em;
-    margin-top: 0.5em;
-  }
+    font-weight: 900; /* extrabold 수준으로 굵게 */
+    margin-bottom: 0.4em;
+    color: #000; /* 검정색으로 확실히 강조 */
+}
+
 
   /* 섹션 제목 아래 구분선: 연한 회색 + 얇음 */
   hr.sep {
