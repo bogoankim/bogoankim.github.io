@@ -79,9 +79,8 @@ author_profile: true
 <div id="bio" class="section">
 	<h5 class="section-title">About Me</h5>
 	<hr class="sep">
-	<p> I am a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, currently supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. <a href="https://dxd-lab.github.io/">Hwajung Hong</a>.
-	I received my Ph.D. degree in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where I was supported by the NRF of Korea Ph.D. Fellowship under the supervision of Prof. <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>. My research centers on HCI and digital health. I design and develop data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. Emphasizing the interplay between technological and social systems, my work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
-	<\p>
+	<p> I am a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, currently supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. <a href="https://dxd-lab.github.io/">Hwajung Hong</a>. I received my Ph.D. degree in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where I was supported by the NRF of Korea Ph.D. Fellowship under the supervision of Prof. <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>. My research centers on HCI and digital health. I design and develop data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. Emphasizing the interplay between technological and social systems, my work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
+	</p>
 </div>
 
 
