@@ -62,6 +62,7 @@ author_profile: true
   }
 
   .paper_content {
+    padding-top: 1em;
     padding-bottom: 0.5em;
   }
 
