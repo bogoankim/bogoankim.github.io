@@ -150,7 +150,7 @@ author_profile: true
 					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
 			</ul>
 		</li>
-		<li><strong class="title">Indiana University -- Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
+		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> 
 					(Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
@@ -170,7 +170,7 @@ author_profile: true
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
-		<li><strong class="title"> University of Minnesota -- Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>B.A in Statistics </i></li>
 			</ul>
