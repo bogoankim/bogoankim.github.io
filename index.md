@@ -158,7 +158,9 @@ a {
 <div id="bio" class="section">
 	<h5 class="section-title">Biography</h5>
 	<hr class="sep">
-	<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
+	<!--<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
+	</p>-->
+	<p> Bogoan Kim received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>. His research lies at the intersection of Human–Computer Interaction and digital health, focusing on the design and development of data-driven interventions to promote well-being. Leveraging mobile and virtual reality technologies, his work aims to provide holistic support for mental and behavioral health. He takes a user-centered and adaptive approach to system design, with particular emphasis on evidence-based digital transformation that addresses the diverse needs of socio-technical ecosystems.
 	</p>
 </div>
 
@@ -167,13 +169,13 @@ a {
 	<h5 class="section-title">Positions</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
+		<!--<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> 
 					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
-		</li>  
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - Apr. 2025 
+		</li>  -->
+		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - Present 
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> 
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
