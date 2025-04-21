@@ -12,8 +12,8 @@ author_profile: true
 
   .section {
     scroll-margin-top: 80px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
   }
 
   .section-title {
