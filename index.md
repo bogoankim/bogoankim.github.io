@@ -74,11 +74,8 @@ author_profile: true
   <h5 class="section-title">About Me</h5>
   <hr class="sep">
   <p>
-    I am a Postdoctoral Researcher in <a href="https://datascience.hanyang.ac.kr">the Department of Data Science at Hanyang University</a>, advised by Prof. Kyung-Sik Han.  
-    I received my Ph.D. in Artificial Intelligence from Hanyang University, supported by the NRF Ph.D. Fellowship.  
-    My research bridges Human-Computer Interaction (HCI), Digital Health, and Inclusive AI.  
-    I’ve published 35 papers (11 SCI-indexed), received multiple fellowships and awards, and actively collaborate internationally.  
-    My current focus is on developing AI-assisted systems that support social independence and mental health for underserved populations.
+    I am a postdoctoral research associate at KAIST, currently supported by the Jang Young Sil Fellow Program and working under the supervision of Profs. Hwajung Hong and Uichin Lee. I earned my Ph.D. from Hanyang University, where I was supported by the NRF of Korea Ph.D. Fellowship under the supervision of Prof. Kyungsik Han.
+My research centers on HCI and digital health. I design and develop data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. Emphasizing the interplay between technological and social systems, my work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
   </p>
 </section>
 
