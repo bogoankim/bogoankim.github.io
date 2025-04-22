@@ -40,6 +40,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - navercb4ecd9d78bb1186ad9d37c2a0023ebb
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
