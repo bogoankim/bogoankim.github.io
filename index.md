@@ -189,19 +189,19 @@ a {
 		</li>  -->
 		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - Present 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, Department of Data Science</i> 
+				<li class="inner-li"> Postdoctoral Researcher, Department of Data Science 
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
 			</ul>
 		</li>
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, College of Information Sciences and Technology (IST)</i> 
+				<li class="inner-li"> Visiting Scholar, College of IST 
 					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
 			</ul>
 		</li>
 		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Visiting Scholar, Luddy School of Informatics</i> 
+				<li class="inner-li"> Visiting Scholar, Luddy School of Informatics
 					(Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
 			</ul>
 		</li>
@@ -214,14 +214,14 @@ a {
 	<ul class="my_list">
 		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Aug. 2021
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Ph.D in Artificial Intelligence</i> 
+				<li class="inner-li"> Ph.D in Artificial Intelligence
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
 		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>B.A in Statistics </i></li>
+				<li class="inner-li"> B.A in Statistics </li>
 			</ul>
 		</li>
 	</ul>
@@ -250,7 +250,7 @@ a {
     <li>
       <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
       <strong><u>Bogoan Kim</u></strong><br>
-      <span class="venue conf"><strong>ACM UIST 2023</strong></span>
+      <span class="venue conf"><strong>ACM UIST 2023</strong><small>(Doctoral Symposium)</small></span>
     </li>
     <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
