@@ -67,7 +67,7 @@ author_profile: true
   }
 
   .inner-li {
-    font-style: italic;
+    font-style: normal;
   }
 
   .dot-sep::before {
