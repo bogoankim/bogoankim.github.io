@@ -250,7 +250,7 @@ a {
     <li>
       <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
       <strong><u>Bogoan Kim</u></strong><br>
-      <span class="venue conf"><strong>ACM UIST 2023</strong><small>(Doctoral Symposium)</small></span>
+      <span class="venue conf"><strong>ACM UIST 2023</strong> <small>(Doctoral Symposium)</small></span>
     </li>
     <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
