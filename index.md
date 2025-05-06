@@ -232,7 +232,7 @@ a {
 	<ul class="my_list">
     <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
-      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Hyungsook Kim, and Kyungsik Han<br>
+      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Yunyoung Choi, Hyungsook Kim, and Kyungsik Han<br>
       <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
     </li>
     <li>
