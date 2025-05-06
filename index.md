@@ -231,6 +231,11 @@ a {
 	<hr class="sep">
 	<ul class="my_list">
     <li>
+      <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a Virtual Reality: A Prospective Interventional Study</strong><br>
+      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Hyungsook Kim, and Kyungsik Han<br>
+      <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
+    </li>
+    <li>
       <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
       {Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han<br>
       <span class="venue conf"><strong>ACM CHI 2025</strong></span>
@@ -263,7 +268,7 @@ a {
     <li>
       <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Direction</strong><br>
       <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
-      <span class="venue journal"><strong>PLoS ONE</strong> (SCIE, 2021)</span>
+      <span class="venue journal"><strong>PLoS ONE</strong> (JCR Q1, 2021)</span>
     </li>
     <li>
       <strong class="title">ChamberBreaker: Mitigating the Echo Chamber and Supporting Information Hygiene through a Gamified Inoculation System</strong><br>
