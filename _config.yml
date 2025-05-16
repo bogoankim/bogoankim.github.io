@@ -16,10 +16,10 @@
 title: Bogoan Kim
 email: bogoan@kaist.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  HCI Researcher
-  #Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
+  Bogoan Kim is a postdoctoral researcher at KAIST, supported by the Jang Young Sil Fellow Program. 
+  He received his Ph.D. in Artificial Intelligence from Hanyang University, where he was supported by the NRF of Korea Ph.D. Fellowship. 
+  His research centers on HCI and digital health. He designs and develops data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. 
+  Emphasizing the interplay between technological and social systems, his work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
 # twitter_username: username
 # github_username: bogoankim
 minimal_mistakes_skin: default
