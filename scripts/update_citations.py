@@ -4,7 +4,7 @@ import yaml
 import os
 
 # Scholar Profile URL (수정 필요)
-SCHOLAR_URL = "https://scholar.google.com/citations?user=YOUR_USER_ID"
+SCHOLAR_URL = "https://scholar.google.com/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao"
 DATA_FILE = "_data/citations.yml"
 
 def get_citation_count_for_title(title, url):
