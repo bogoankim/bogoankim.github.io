@@ -278,12 +278,6 @@ a {
   </ul>
 </div>
 
-<div id="citations" class="section">
-	<h5 class="section-title">Citations Overview</h5>
-	<hr class="sep">
-	{% include citations.html %}
-</div>
-
 <!--
 <table class="my_list">
 		<tr>
