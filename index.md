@@ -276,9 +276,14 @@ a {
       <span class="venue conf"><strong>ACM CSCW 2021</strong></span>
     </li>
   </ul>
-
- {% include citations.html %}
 </div>
+
+<div id="citations" class="section">
+	<h5 class="section-title">Citations Overview</h5>
+	<hr class="sep">
+	{% include citations.html %}
+</div>
+
 <!--
 <table class="my_list">
 		<tr>
