@@ -1,34 +1,68 @@
-name: Update Citations
+import requests
+from bs4 import BeautifulSoup
+import yaml
+import os
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 12 * * *"
+# Scholar Profile URL (수정 필요)
+SCHOLAR_URL = "https://scholar.google.com/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao"
 
-jobs:
-  update-citations:
-    runs-on: ubuntu-latest
+# Data file path
+DATA_FILE = "_data/citations.yml"
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+# 논문 제목 리스트 (정확히 일치해야 함)
+PUBLICATIONS = [
+    "Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study",
+    "I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health",
+    "Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals"
+]
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
+def get_citation_count_for_title(title, soup):
+    """
+    특정 논문의 제목을 검색하고, 해당 논문의 citation 수를 반환
+    """
+    titles = soup.find_all('a', class_='gsc_a_at')
+    citation_counts = soup.find_all('a', class_='gsc_a_ac')
 
-      - name: Install dependencies
-        run: |
-          python -m pip install requests beautifulsoup4 pyyaml
+    for t, count in zip(titles, citation_counts):
+        # 제목이 부분적으로라도 일치하는 경우를 탐색
+        if title.lower() in t.text.lower():
+            return count.text.strip() if count.text.strip() != '' else '0'
+    return '0'
 
-      - name: Update Citations
-        run: python scripts/update_citations.py
+def fetch_scholar_data():
+    headers = {
+        "User-Agent": "Mozilla/5.0"
+    }
+    response = requests.get(SCHOLAR_URL, headers=headers)
+    soup = BeautifulSoup(response.content, "html.parser")
+    return soup
 
-      - name: Commit and Push Changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _data/citations.yml
-          git commit -m "Update citation count"
-          git push
+def update_citations():
+    # Scholar 데이터 가져오기
+    soup = fetch_scholar_data()
+
+    # 데이터 파일이 없으면 초기화
+    if not os.path.exists(DATA_FILE):
+        with open(DATA_FILE, "w") as file:
+            yaml.dump({"publications": []}, file)
+
+    with open(DATA_FILE, "r") as file:
+        data = yaml.safe_load(file)
+
+    # 기존 데이터 구조 유지
+    updated_data = {"publications": []}
+
+    for title in PUBLICATIONS:
+        citation_count = get_citation_count_for_title(title, soup)
+        updated_data["publications"].append({
+            "title": title,
+            "citation_count": int(citation_count)
+        })
+        print(f"Updated: {title} - {citation_count} citations")
+
+    # 업데이트된 데이터 저장
+    with open(DATA_FILE, "w") as file:
+        yaml.dump(updated_data, file)
+
+if __name__ == "__main__":
+    update_citations()
