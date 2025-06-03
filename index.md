@@ -227,13 +227,12 @@ a {
 
 
 <div id="pub" class="section">
-	<h5 class="section-title">Selected Publications <small>(* indicates equal contributions)</small></h5>
+	<h5 class="section-title">Selected Publications <small>(For a complete list, see <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a> or my <a href="[http://hcc.hanyang.ac.kr/](https://bogoankim.github.io/assets/files/CV_Bogoan_Kim.pdf)">CV</a>)</small></h5>
 	<hr class="sep">
 	<ul class="my_list">
-	For a complete list, see <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a> or my <a href="[http://hcc.hanyang.ac.kr/](https://bogoankim.github.io/assets/files/CV_Bogoan_Kim.pdf)">CV</a>
     <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
-      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Yunyoung Choi, Hyungsook Kim, and Kyungsik Han<br>
+      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Yunyoung Choi, Hyungsook Kim, and Kyungsik Han<be> (<small>* indicates equal contributions</small>)
       <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
     </li>
     <li>
