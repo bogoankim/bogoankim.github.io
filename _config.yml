@@ -28,7 +28,8 @@ search: false
 url: "https://bogoankim.github.io"
 
 # SEO Related
-google_site_verification: "Bj4msVCjnggSsetR-_bihFyUDzyhM1WPR3lPpPFmByk"
+#google_site_verification: "Bj4msVCjnggSsetR-_bihFyUDzyhM1WPR3lPpPFmByk"
+google-site-verification: "sxogDvObNPIYMTUcxCVeFutEqyBiuVCRauRbMonz7g4"
 naver_site_verification: "688189ba4f5ce2b03d0061197120bfddb0ab34eb"
 
 # Build settings
