@@ -170,17 +170,25 @@ a {
 <div id="bio" class="section">
 	<h5 class="section-title">Biography</h5>
 	<hr class="sep">
-	<p> Bogoan Kim is a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>. 
+	<p>
+  Bogoan Kim is an <strong>incoming Assistant Professor</strong> at the School of Information and Communication Engineering, <a href="https://inform.chungbuk.ac.kr/">Chungbuk National University</a>. He is currently a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>.
+</p>
 
-His research lies at the intersection of human-computer interaction, digital healthcare, and social computing, with a focus on user-centered AI software. He designs and develops data-driven systems that support holistic well-being, drawing on diverse problem-definition approaches—including stakeholder engagement, evidence synthesis (scoping and systematic reviews), and protocol-driven analysis in digital transformation contexts. These systems are designed to capture meaningful behavioral data in real-world environments, informing the development of AI models or the integration of AI as supportive features. Across projects, he emphasizes the interplay between technological and social systems, translating these insights into intelligent, personalized, and scalable software solutions.
-	</p>
+<p>
+  His research lies at the intersection of human-computer interaction, digital healthcare, and social computing, with a focus on user-centered AI software. He designs and develops data-driven systems that support holistic well-being, drawing on diverse problem-definition approaches—including stakeholder engagement, evidence synthesis (scoping and systematic reviews), and protocol-driven analysis in digital transformation contexts. These systems are designed to capture meaningful behavioral data in real-world environments, informing the development of AI models or the integration of AI as supportive features. Across projects, he emphasizes the interplay between technological and social systems, translating these insights into intelligent, personalized, and scalable software solutions.
+</p>
+
 </div>
-
 
 <div id="exp" class="section">
 	<h5 class="section-title">Positions</h5>
 	<hr class="sep">
 	<ul class="my_list">
+		<li><strong class="title">Chungbuk National University</strong>, Cheongju, Korea <span class="dot-sep"></span> Sep 2025 – 
+			<ul class="inner-ul">
+				<li class="inner-li"> <i>Assistant Professor, School of Information and Communication Engineering</i> </li>
+			</ul>
+		</li>
 		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> 
