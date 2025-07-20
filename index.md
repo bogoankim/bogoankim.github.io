@@ -184,12 +184,12 @@ a {
 	<h5 class="section-title">Positions</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">Chungbuk National University</strong>, Cheongju, Korea <span class="dot-sep"></span> Sep 2025 – Present
+		<li><strong class="title">Chungbuk National University</strong>, Cheongju, Korea <span class="dot-sep"></span> Sep 2025 – 
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Assistant Professor, School of Information and Communication Engineering</i> </li>
 			</ul>
 		</li>
-		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Present
+		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Aug 2025
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> 
 					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
