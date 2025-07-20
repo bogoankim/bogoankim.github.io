@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bogoan Kim
-email: bogoan@kaist.ac.kr
+email: bogoan@chungbuk.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Bogoan Kim is a postdoctoral researcher at KAIST, supported by the Jang Young Sil Fellow Program. 
+  Bogoan Kim is an incoming Assistant Professor at Chungbuk National University and a postdoctoral researcher at KAIST, supported by the Jang Young Sil Fellow Program. 
   He received his Ph.D. in Artificial Intelligence from Hanyang University, where he was supported by the NRF of Korea Ph.D. Fellowship. 
   His research centers on HCI and digital health. He designs and develops data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. 
   Emphasizing the interplay between technological and social systems, his work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
