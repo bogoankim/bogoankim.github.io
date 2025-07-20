@@ -184,7 +184,7 @@ a {
 	<h5 class="section-title">Positions</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">Chungbuk National University</strong>, Cheongju, Korea <span class="dot-sep"></span> Sep 2025 – 
+		<li><strong class="title">Chungbuk National University</strong>, Cheongju, Korea <span class="dot-sep"></span> Sep 2025 – Present
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Assistant Professor, School of Information and Communication Engineering</i> </li>
 			</ul>
