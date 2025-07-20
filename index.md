@@ -175,7 +175,7 @@ a {
 </p>
 
 <p>
-  His research lies at the intersection of human-computer interaction, digital healthcare, and social computing, with a focus on user-centered AI software. He designs and develops data-driven systems that support holistic well-being, drawing on diverse problem-definition approaches—including stakeholder engagement, evidence synthesis (scoping and systematic reviews), and protocol-driven analysis in digital transformation contexts. These systems are designed to capture meaningful behavioral data in real-world environments, informing the development of AI models or the integration of AI as supportive features. Across projects, he emphasizes the interplay between technological and social systems, translating these insights into intelligent, personalized, and scalable software solutions.
+  His research lies at the intersection of human-computer interaction, digital healthcare, and social computing, with a focus on user-centered AI software. He designs and develops data-driven systems that support holistic well-being, drawing on diverse problem-definition approaches, including stakeholder engagement, evidence synthesis (scoping and systematic reviews), and protocol-driven analysis in digital transformation contexts. These systems are designed to capture meaningful behavioral data in real-world environments, informing the development of AI models or the integration of AI as supportive features. Across projects, he emphasizes the interplay between technological and social systems, translating these insights into intelligent, personalized, and scalable software solutions.
 </p>
 
 </div>
