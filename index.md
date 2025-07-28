@@ -204,7 +204,7 @@ a {
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
 				<li class="inner-li"> Visiting Scholar, College of IST 
-					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a></li>
+					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a>)</li>
 			</ul>
 		</li>
 		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
