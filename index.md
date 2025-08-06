@@ -229,7 +229,7 @@ a {
 		</li>
 		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
 			<ul class="inner-ul">
-				<li class="inner-li"> B.A in Statistics </li>
+				<li class="inner-li"> B.S in Statistics </li>
 			</ul>
 		</li>
 	</ul>
