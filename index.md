@@ -171,12 +171,13 @@ a {
 	<h5 class="section-title">Biography</h5>
 	<hr class="sep">
 	<p>
-  Bogoan Kim is an incoming Assistant Professor at <a href="https://inform.chungbuk.ac.kr/">the School of Information and Communication Engineering, Chungbuk National University</a>. He is currently a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>.
+ <!-- Bogoan Kim is an incoming Assistant Professor at <a href="https://inform.chungbuk.ac.kr/">the School of Information and Communication Engineering, Chungbuk National University</a>. He is currently a postdoctoral researcher at <a href="https://www.kaist.ac.kr/web/eng">KAIST</a>, supported by the Jang Young Sil Fellow Program and working under the supervision of <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>. He received his Ph.D. in Artificial Intelligence from <a href="https://www.hanyang.ac.kr">Hanyang University</a>, where he was supported by the NRF of Korea Ph.D. Fellowship and advised by <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han </a> -->
+  Bogoan Kim is an Assistant Professor in the<a href="https://inform.chungbuk.ac.kr/"> School of Information and Communication Engineering, Chungbuk National University</a>, where he leads the <a href="https://sites.google.com/view/cbnu-hci"> HCI Lab </a>. Prior to joining CBNU, he was a Postdoctoral Researcher at KAIST, supported by the Jang Young Sil Fellowship, working with Prof. Hwajung Hong and Prof. Uichin Lee. He earned his Ph.D. in Artificial Intelligence from Hanyang University under the supervision of Prof. Kyungsik Han</a>, supported by the NRF of Korea Ph.D. Fellowship.
 </p>
 
-<p>
+<!--<p>
   His research lies at the intersection of human-computer interaction, digital healthcare, and social computing, with a focus on user-centered AI software. He designs and develops data-driven systems that support holistic well-being, drawing on diverse problem-definition approaches, including stakeholder engagement, evidence synthesis (scoping and systematic reviews), and protocol-driven analysis in digital transformation contexts. These systems are designed to capture meaningful behavioral data in real-world environments, informing the development of AI models or the integration of AI as supportive features. Across projects, he emphasizes the interplay between technological and social systems, translating these insights into intelligent, personalized, and scalable software solutions.
-</p>
+</p>-->
 
 </div>
 
@@ -240,11 +241,11 @@ a {
 	<h5 class="section-title">Selected Publications <small>(For a complete list, see <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a> or my <a href="https://bogoankim.github.io/assets/files/CV_Bogoan_Kim.pdf">CV</a>)</small></h5>
 	<hr class="sep">
 	<ul class="my_list">
-<!--     <li>
+     <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
       {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Yunyoung Choi, Hyungsook Kim, and Kyungsik Han<br> 
       <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
-    </li> -->
+    </li>
     <li>
       <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
       {Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han<br>
