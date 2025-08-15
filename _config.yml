@@ -89,9 +89,9 @@ author:
     - label: "C.V."
       icon: "far fa-fw fa-file-alt"
       url: "./assets/files/CV_Bogoan_Kim.pdf"
-     - label: "xxx Lab @ xxxx"
-       icon: "fas fa-fw fa-link"
-       url: "https://sites.google.com/view/cbnu-hci"
+    - label: "HCI Lab @ CBNU"
+      icon: "fas fa-fw fa-link"
+      url: "https://sites.google.com/view/cbnu-hci"
 
 footer:
   links:
