@@ -16,10 +16,8 @@
 title: Bogoan Kim
 email: bogoan@cbnu.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Bogoan Kim is an incoming Assistant Professor at Chungbuk National University and a postdoctoral researcher at KAIST, supported by the Jang Young Sil Fellow Program. 
-  He received his Ph.D. in Artificial Intelligence from Hanyang University, where he was supported by the NRF of Korea Ph.D. Fellowship. 
-  His research centers on HCI and digital health. He designs and develops data-driven interventions that promote well-being by leveraging mobile and VR technologies for holistic health support. 
-  Emphasizing the interplay between technological and social systems, his work adopts adaptive user-centered design and evidence-based digital transformation to address the diverse needs of socio-technical ecosystems.
+  Bogoan Kim is an Assistant Professor at Chungbuk National University, where he leads the HCI Lab. Prior to joining CBNU, he was a Postdoctoral Researcher at KAIST, supported by the Jang Young Sil Fellowship, working with Prof. Hwajung Hong and Prof. Uichin Lee. 
+  He received his Ph.D. in Artificial Intelligence from Hanyang University, supported by the NRF of Korea Ph.D. Fellowship.
 # twitter_username: username
 # github_username: bogoankim
 minimal_mistakes_skin: default
@@ -69,15 +67,15 @@ plugins:
 author:
   name       : "Bogoan Kim (김보관)"
   avatar     : "/assets/images/bio-photo_bo.jpg"
-  bio        : "Post-doc. @ KAIST"
-  location   : "Daejeon, Korea"
+  bio        : "Assistant Professor @ CBNU"
+  location   : "CheongJu, Korea"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:bogoan@cbnu.ac.kr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/borendipity/"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+     # url: "https://github.com/borendipity/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
     # icon: "fab fa-fw fa-google"
@@ -91,9 +89,9 @@ author:
     - label: "C.V."
       icon: "far fa-fw fa-file-alt"
       url: "./assets/files/CV_Bogoan_Kim.pdf"
-    # - label: "xxx Lab @ xxxx"
-      # icon: "fas fa-fw fa-link"
-      # url: ""
+     - label: "xxx Lab @ xxxx"
+       icon: "fas fa-fw fa-link"
+       url: "https://sites.google.com/view/cbnu-hci"
 
 footer:
   links:
