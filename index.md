@@ -272,23 +272,6 @@ a {
       <strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han<br>
       <span class="venue conf"><strong>ACM CHI 2023</strong></span>
     </li>
-    <li>
-      <strong class="title">VISTA: User-Centered VR Training System for Effectively Deriving Characteristics of Autistic Individuals</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Mingon Jeong, Taehyoung Noh, Sung-In Kim, Taewan Kim, So-youn Jang, Hee Jeong Yoo, Jennifer G Kim, Hwajung Hong, and Kyungsik Han<br>
-      <span class="venue conf"><strong>ACM VRST 2022</strong></span>
-    </li>
-    <li>
-      <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Direction</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
-      <span class="venue journal"><strong>PLoS ONE</strong> (JCR Q1, 2021)</span>
-    </li>
-    <li>
-      <strong class="title">ChamberBreaker: Mitigating the Echo Chamber and Supporting Information Hygiene through a Gamified Inoculation System</strong><br>
-      Youngseung Jeon, <strong><u>Bogoan Kim</u></strong>, Aiping Xiong, Dongwon Lee, and Kyungsik Han<br>
-      <span class="venue conf"><strong>ACM CSCW 2021</strong></span>
-    </li>
-  </ul>
-</div>
 
 <!--
 <table class="my_list">
@@ -426,7 +409,7 @@ a {
 			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
 		</li>
 		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
-			CHI 2024, CHI 2025
+			CHI 2024, CHI 2025, IMWUT 2025
 		</li>
 		
 		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
