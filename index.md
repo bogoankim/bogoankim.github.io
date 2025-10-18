@@ -417,7 +417,7 @@ a {
 			CHI 2024, CHI 2025, IMWUT 2025
 		</li>
 		<li><strong class="title">Domestic Conference Awards</strong> <br>
-			Best Paper Awards: KDMS (2024: Grand Paper, Best Paper)
+			Best Paper Awards: KDMS (2024: Grand Paper, Best Paper)<br>
 			Best Presentation Award: KIISE KCC (2024)
 		</li>
 		
