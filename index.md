@@ -247,11 +247,11 @@ a {
       <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
       <span class="venue journal"><strong>Springer Virtual Reality</strong> (JCR Q1, 2025)</span>
     </li>
-     <li>
+     <!-- <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
       {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, Y Choi, H Kim, and K Han<br> 
       <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
-    </li>
+    </li> -->
     <li>
       <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
       {S Jin*, <strong><u>B Kim*</u></strong>}, and K Han<br>
