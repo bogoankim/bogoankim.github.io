@@ -209,7 +209,7 @@ a {
 					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a>)</li>
 			</ul>
 		</li>
-		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> Oct. 2019 - Feb. 2020 
+		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> June 2019 - Sep 2019 
 			<ul class="inner-ul">
 				<li class="inner-li"> Visiting Scholar, Luddy School of Informatics
 					(Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
@@ -222,14 +222,14 @@ a {
 	<h5 class="section-title">Education</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Aug. 2021
+		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Mar 2018 - Feb 2025
 			<ul class="inner-ul">
 				<li class="inner-li"> Ph.D in Artificial Intelligence
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
-		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Aug. 2013 <br>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Sep 2011 - Dec 2016 <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> B.S in Statistics </li>
 			</ul>
@@ -242,14 +242,19 @@ a {
 	<h5 class="section-title">Selected Publications <small>(For a complete list, see <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a> or my <a href="https://bogoankim.github.io/assets/files/CV_Bogoan_Kim.pdf">CV</a>)</small></h5>
 	<hr class="sep">
 	<ul class="my_list">
+	 <li>
+      <strong class="title">VR-ACT: Transforming Clinical Evidence of ACT through VR for Sthreshold Depresion</strong><br>
+      {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, H Kim, and K Han<br> 
+      <span class="venue journal"><strong>Springer Virtual Reality</strong> (JCR Q1, 2025)</span>
+    </li>
      <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
-      {<strong><u>Bogoan Kim*</u></strong>, Dayoung Jeong*}, Yoonseon Choi, Yunyoung Choi, Hyungsook Kim, and Kyungsik Han<br> 
+      {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, Y Choi, H Kim, and K Han<br> 
       <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
     </li>
     <li>
       <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
-      {Seungwan Jin*, <strong><u>Bogoan Kim*</u></strong>}, and Kyungsik Han<br>
+      {S Jin*, <strong><u>B Kim*</u></strong>}, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2025</strong></span>
     </li>
     <li>
@@ -259,7 +264,7 @@ a {
     </li>
     <li>
       <strong class="title">V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Jennifer G Kim, Hwajung Hong, and Kyungsik Han<br>
+      <strong><u>B Kim</u></strong>, D Jeong, JG Kim, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM UIST 2023</strong></span>
     </li>
     <li>
@@ -269,7 +274,7 @@ a {
     </li>
     <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, Sung-In Kim, Sungwon Park, Hee Jeong Yoo, Hwajung Hong, and Kyungsik Han<br>
+      <strong><u>Bogoan Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2023</strong></span>
     </li>
 
@@ -410,6 +415,13 @@ a {
 		</li>
 		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
 			CHI 2024, CHI 2025, IMWUT 2025
+		</li>
+		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
+			CHI 2024, CHI 2025, IMWUT 2025
+		</li>
+		<li><strong class="title">Domestic Conference Awards</strong> <br>
+			Best Paper Awards: KDMS (2024: Grand Paper, Best Paper)
+			Best Presentation Award: KIISE KCC (2024)
 		</li>
 		
 		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
