@@ -416,9 +416,6 @@ a {
 		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
 			CHI 2024, CHI 2025, IMWUT 2025
 		</li>
-		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
-			CHI 2024, CHI 2025, IMWUT 2025
-		</li>
 		<li><strong class="title">Domestic Conference Awards</strong> <br>
 			Best Paper Awards: KDMS (2024: Grand Paper, Best Paper)
 			Best Presentation Award: KIISE KCC (2024)
