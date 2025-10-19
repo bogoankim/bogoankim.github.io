@@ -259,7 +259,7 @@ a {
     </li>
     <li>
       <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, Dayoung Jeong, Hwajung Hong, and Kyungsik Han<br>
+      <strong><u>B Kim</u></strong>, D Jeong, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2024</strong></span>
     </li>
     <li>
@@ -269,7 +269,7 @@ a {
     </li>
     <li>
       <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
-      <strong><u>Bogoan Kim</u></strong><br>
+      <strong><u>B Kim</u></strong><br>
       <span class="venue conf"><strong>ACM UIST 2023</strong> <small>(Doctoral Symposium)</small></span>
     </li>
     <li>
