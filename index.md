@@ -243,7 +243,7 @@ a {
 	<hr class="sep">
 	<ul class="my_list">
 	 <li>
-      <strong class="title">VR-ACT: Transforming Clinical Evidence of ACT through VR for Sthreshold Depresion</strong><br>
+      <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through VR for Subthreshold Depression</strong><br>
       <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
       <span class="venue journal"><strong>Springer Virtual Reality</strong> (JCR Q1, 2025)</span>
     </li>
