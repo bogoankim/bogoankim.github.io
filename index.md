@@ -193,7 +193,7 @@ a {
 		</li>
 		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Aug 2025
 			<ul class="inner-ul">
-				<li class="inner-li"> <i>Postdoctoral Researcher, College of Engineering</i> 
+				<li class="inner-li"> <i>Jang Young-Sil Postdoctoral Fellow, College of Engineering</i> 
 					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
 		</li>
@@ -205,13 +205,13 @@ a {
 		</li>
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
-				<li class="inner-li"> Visiting Scholar, College of IST 
+				<li class="inner-li"> Visiting Researcher, College of IST 
 					(Advisors: <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> and <a href="https://faculty.ist.psu.edu/axx29/">Prof. Aiping Xiong</a>)</li>
 			</ul>
 		</li>
 		<li><strong class="title">Indiana University - Bloomington</strong>, IN, USA <span class="dot-sep"></span> June 2019 - Sep 2019 
 			<ul class="inner-ul">
-				<li class="inner-li"> Visiting Scholar, Luddy School of Informatics
+				<li class="inner-li"> Visiting Researcher, Luddy School of Informatics
 					(Advisors: <a href="https://patshih.luddy.indiana.edu/">Prof. Patich C. Shih</a> and <a href="https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=gfrey">Prof. Georgia C.Frey</a>) </li>
 			</ul>
 		</li>
@@ -229,7 +229,7 @@ a {
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
-		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Sep 2011 - Dec 2016 <br>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Sep 2011 - Jan 2017 <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> B.S in Statistics </li>
 			</ul>
