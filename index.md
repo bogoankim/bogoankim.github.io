@@ -274,7 +274,7 @@ a {
     </li>
     <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
-      <strong><u>Bogoan Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
+      <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2023</strong></span>
     </li>
 
