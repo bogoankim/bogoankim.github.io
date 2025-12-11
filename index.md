@@ -231,7 +231,7 @@ a {
 		</li>
 		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Sep 2011 - Jan 2017 <br>
 			<ul class="inner-ul">
-				<li class="inner-li"> B.S in Statistics </li>
+				<li class="inner-li"> B.S in Statistics (Graduated with honors) </li>
 			</ul>
 		</li>
 	</ul>
