@@ -249,12 +249,12 @@ a {
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using Large Language Models</strong><br>
-      {J Kim*, D Jeong*}, B Son, <strong><u>B Kim*</u></strong>}, and K Han<br>
+      {J Kim*, D Jeong*}, B Son, <strong><u>B Kim*</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
       <strong class="title">“I Choose to Live, for Life Itself”: Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks</strong><br>
-      {S-I Kim*, J Park*}, <strong><u>B Kim*</u></strong>}, and H Hong<br>
+      {S-I Kim*, J Park*}, <strong><u>B Kim*</u></strong>, and H Hong<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
