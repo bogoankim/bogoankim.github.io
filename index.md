@@ -243,12 +243,12 @@ a {
 	<hr class="sep">
 	<ul class="my_list">
 	 <li>
-      <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through Large Language Models</strong><br>
+      <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
       M Kim, <strong><u>B Kim*</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
-      <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using Large Language Models</strong><br>
+      <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
       {J Kim*, D Jeong*}, B Son, <strong><u>B Kim*</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
