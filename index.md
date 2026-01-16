@@ -244,7 +244,7 @@ a {
 	<ul class="my_list">
 	 <li>
       <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through Large Language Models</strong><br>
-      M Kim, <strong><u>B Kim*</u></strong>}, and K Han<br>
+      M Kim, <strong><u>B Kim*</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
