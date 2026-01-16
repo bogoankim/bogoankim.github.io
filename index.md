@@ -262,7 +262,6 @@ a {
       H Lim, D Choi, S Nam, <strong><u>B Kim*</u></strong>, and H Hong<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
-    <li>
 	<li>
       <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through Virtual Reality for Subthreshold Depression</strong><br>
       <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
