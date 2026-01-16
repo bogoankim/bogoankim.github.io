@@ -243,6 +243,27 @@ a {
 	<hr class="sep">
 	<ul class="my_list">
 	 <li>
+      <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through Large Language Models</strong><br>
+      M Kim, <strong><u>B Kim*</u></strong>}, and K Han<br>
+      <span class="venue conf"><strong>ACM CHI 2026</strong></span>
+    </li>
+	<li>
+      <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using Large Language Models</strong><br>
+      {J Kim*, D Jeong*}, B Son, <strong><u>B Kim*</u></strong>}, and K Han<br>
+      <span class="venue conf"><strong>ACM CHI 2026</strong></span>
+    </li>
+	<li>
+      <strong class="title">“I Choose to Live, for Life Itself”: Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks</strong><br>
+      {S-I Kim*, J Park*}, <strong><u>B Kim*</u></strong>}, and H Hong<br>
+      <span class="venue conf"><strong>ACM CHI 2026</strong></span>
+    </li>
+	<li>
+      <strong class="title">Building Human–Multi-Agent Teams for Creative Works</strong><br>
+      H Lim, D Choi, S Nam, <strong><u>B Kim*</u></strong>, and H Hong<br>
+      <span class="venue conf"><strong>ACM CHI 2026</strong></span>
+    </li>
+    <li>
+	<li>
       <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through Virtual Reality for Subthreshold Depression</strong><br>
       <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
       <span class="venue journal"><strong>Springer Virtual Reality</strong> (JCR Q1, 2025)</span>
