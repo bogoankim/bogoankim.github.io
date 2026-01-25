@@ -258,7 +258,7 @@ a {
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
-      <strong class="title">Building Human–Multi-Agent Teams for Creative Works</strong><br>
+      <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
       H Lim, D Choi, S Nam, <strong><u>B Kim</u></strong>, and H Hong<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
