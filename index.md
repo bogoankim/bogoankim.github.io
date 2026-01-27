@@ -222,14 +222,14 @@ a {
 	<h5 class="section-title">Education</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Mar 2018 - Feb 2025
+		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Feb 2025
 			<ul class="inner-ul">
 				<li class="inner-li"> Ph.D in Artificial Intelligence
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
-		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Sep 2011 - Jan 2017 <br>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Jan 2017 <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> B.S in Statistics (Graduated with honors) </li>
 			</ul>
@@ -437,8 +437,9 @@ a {
 			CHI 2024, CHI 2025, IMWUT 2025, CHI 2026
 		</li>
 		<li><strong class="title">Domestic Conference Awards</strong> <br>
-			Best Paper Awards: KDMS (2024: Grand Paper, Best Paper)<br>
-			Best Presentation Award: KIISE KCC (2024)
+			Grand Paper Award: KDMS 2024 <br>
+			Best Paper Award: KDMS 2024 <br>
+			Best Presentation Award: KCC 2024
 		</li>
 		
 		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
