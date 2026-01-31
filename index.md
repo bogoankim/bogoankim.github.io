@@ -249,7 +249,7 @@ a {
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
-      {J Kim*, D Jeong*}, B Son, <strong><u>B Kim</u></strong>, and K Han<br>
+      {J Kim*, D Jeong*}, B Son, <strong><u>B Kim</u></strong>, H Kim, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
     </li>
 	<li>
