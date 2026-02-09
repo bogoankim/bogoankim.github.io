@@ -412,7 +412,7 @@ a {
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
 	<ul class="my_list">
-		<li> <strong class="title">Jang Young Sil Postdoctoral Fellowship</strong> <br>
+		<li> <strong class="title">Jang Young Sil Fellowship</strong> <br>
 			Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
 		</li>
 		<li> <strong class="title">Hanyang University Postdoctoral Fellowship</strong> <br>
