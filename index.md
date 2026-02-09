@@ -239,7 +239,7 @@ a {
 
 
 <div id="pub" class="section">
-	<h5 class="section-title">Selected Publications <small>(For a complete list, see <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a> or my <a href="https://bogoankim.github.io/assets/files/CV_Bogoan_Kim.pdf">CV</a>)</small></h5>
+	<h5 class="section-title">Selected Publications <small>(For a complete list, For a complete list, please visit <a href="https://sites.google.com/view/cbnu-hci">our Lab Homepage</a>)</small></h5>
 	<hr class="sep">
 	<ul class="my_list">
 	 <li>
