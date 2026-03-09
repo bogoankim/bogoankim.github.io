@@ -414,7 +414,7 @@ a {
     <hr class="sep">
 	<ul class="my_list">
 		<li> <strong class="title">Best Paper Honorable Mention</strong> <br>
-			ACM CHI, Barcelona, Spain<span class="dot-sep"></span> 2026
+			ACM CHI, Spain<span class="dot-sep"></span> 2026
 		</li>
 		<li> <strong class="title">Jang Young Sil Fellowship</strong> <br>
 			Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
