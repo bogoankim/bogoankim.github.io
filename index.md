@@ -246,7 +246,7 @@ a {
       <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
       M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span><br>
-     <span style="color:#db5664;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
+     <small><span style="color:#db5664;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span></small>
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
@@ -288,11 +288,11 @@ a {
       <strong><u>B Kim</u></strong>, D Jeong, JG Kim, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM UIST 2023</strong></span>
     </li>
-    <li>
+    <!-- <li>
       <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
       <strong><u>B Kim</u></strong><br>
       <span class="venue conf"><strong>ACM UIST 2023</strong> <small>(Doctoral Symposium)</small></span>
-    </li>
+    </li> -->
     <li>
       <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
       <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
