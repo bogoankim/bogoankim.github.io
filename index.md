@@ -246,7 +246,7 @@ a {
       <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
       M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span><br>
-     <span style="color:#db5664;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
+      <span style="color:#db5664; font-size:0.9em;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
@@ -257,6 +257,7 @@ a {
       <strong class="title">“I Choose to Live, for Life Itself”: Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks</strong><br>
       {S-I Kim*, J Park*}, <strong><u>B Kim</u></strong>, and H Hong<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span>
+	  <span style="color:#db5664; font-size:0.9em;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
     </li>
 	<li>
       <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
