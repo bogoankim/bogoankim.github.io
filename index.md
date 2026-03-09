@@ -245,8 +245,8 @@ a {
 	 <li>
       <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
       M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-      <span class="venue conf"><strong>ACM CHI 2026</strong></span>
-     <span style="color:#db5664;"><i class="fas fa-medal"></i> <strong>CHI 2026 Best Paper Honorable Mention Award</strong></span>
+      <span class="venue conf"><strong>ACM CHI 2026</strong></span><br>
+     <span style="color:#db5664;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
