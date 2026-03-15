@@ -191,18 +191,18 @@ a {
 				<li class="inner-li"> <i>Assistant Professor, School of Information and Communication Engineering</i> </li>
 			</ul>
 		</li>
-		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> May 2025 - Aug 2025
+		<li><strong class="title">KAIST</strong>, Daejeon, Korea  <span class="dot-sep"></span> Mar 2025 - Aug 2025
 			<ul class="inner-ul">
 				<li class="inner-li"> <i>Jang Young-Sil Postdoctoral Fellow, College of Engineering</i> 
 					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
 		</li>
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - April 2025 
+		<!-- <li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - April 2025 
 			<ul class="inner-ul">
 				<li class="inner-li"> Postdoctoral Researcher, Department of Data Science 
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
 			</ul>
-		</li>
+		</li> -->
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
 				<li class="inner-li"> Visiting Researcher, College of IST 
@@ -420,9 +420,9 @@ a {
 		<li> <strong class="title">Jang Young Sil Fellowship</strong> <br>
 			Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
 		</li>
-		<li> <strong class="title">Hanyang University Postdoctoral Fellowship</strong> <br>
+		<!-- <li> <strong class="title">Hanyang University Postdoctoral Fellowship</strong> <br>
 			Research Institute of Industrial Science, Hanyang University<span class="dot-sep"></span> 2025
-		</li>
+		</li> -->
 		<li> <strong class="title">NRF of Korea Ph.D. Fellowship</strong> <br>
 			National Research Foundation of Korea<span class="dot-sep"></span> 2023
 		</li>
