@@ -238,8 +238,9 @@ a {
 </div>
 
 
-<div id="pub" class="section">
-	<h5 class="section-title">Selected Publications <small>(For a complete list, please visit <a href="https://sites.google.com/view/cbnu-hci">our Lab Homepage</a>)</small></h5>
+<div id="pub" class="section"> 
+	<!-- <small>(For a complete list, please visit <a href="https://sites.google.com/view/cbnu-hci">our Lab Homepage</a>)</small> -->
+	<h5 class="section-title">Publications </h5>
 	<hr class="sep">
 	<ul class="my_list">
 	 <li>
@@ -267,13 +268,13 @@ a {
 	<li>
       <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through Virtual Reality for Subthreshold Depression</strong><br>
       <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
-      <span class="venue journal"><strong>Springer Virtual Reality</strong> (JCR Q1, 2025)</span>
+      <span class="venue journal"><strong>Springer Virtual Reality</strong>, SCIE, 2026.03</span>
     </li>
-     <!-- <li>
+     <li>
       <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
       {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, Y Choi, H Kim, and K Han<br> 
-      <span class="venue journal"><strong>Scientific Reports</strong> (JCR Q1, 2025)</span>
-    </li> -->
+      <span class="venue journal"><strong>Scientific Reports</strong>, SCIE, 2025.09</span>
+    </li>
     <li>
       <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
       {S Jin*, <strong><u>B Kim*</u></strong>}, and K Han<br>
@@ -283,6 +284,11 @@ a {
       <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
       <strong><u>B Kim</u></strong>, D Jeong, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2024</strong></span>
+    </li>
+	<li>
+      <strong class="title">Promoting Self-Efficacy of Individuals With Autism in Practicing Social Skills in the Workplace Using Virtual Reality and Physiological Sensors: Mixed Methods Study</strong><br>
+      SI Kim, S Jang, T Kim, <strong><u>B Kim</u></strong>, D Jeong, T Noh, M Jeong, K Hall, M Kim, HJ Yoo, K Han, H Hong, and JG Kim<br>
+      <span class="venue journal"><strong>JMIR Formative Research</strong>, SCIE, 2024.01</span>
     </li>
     <li>
       <strong class="title">V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong><br>
@@ -299,7 +305,47 @@ a {
       <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2023</strong></span>
     </li>
-
+	<li>
+      <strong class="title">VISTA: User-centered VR Training System for Effectively Deriving Characteristics of People with Autism Spectrum Disorder</strong><br>
+      <strong><u>B Kim</u></strong>, D Jeong, M Jeong, T Noh, SI Kim, T Kim, S Jang, HJ Yoo, JG Kim, H Hong, and K Han<br>
+      <span class="venue conf"><strong>ACM VRST 2022</strong></span>
+    </li>
+	<li>
+      <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Directions</strong><br>
+      <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
+      <span class="venue journal"><strong>PLoS One</strong>, SCIE, 2021.12</span>   
+    </li>
+	<li>
+      <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System </strong><br>
+      Y Jeon, <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
+      <span class="venue conf"><strong>ACM CSCW 2021</strong></span>
+    </li>
+	<li>
+      <strong class="title">Usability Assessment of a Mobile Health Intervention for Increasing Physical Activity in Autistic Adults </strong><br>
+      D Lee, G Frey, A Min, <strong><u>B Kim</u></strong>, D Cothran, S Bellini, K Han, and PC Shih<br>
+      <span class="venue journal"><strong>SAGE Health Informatics Journal,</strong>, SCIE, 2020.09</span>   
+    </li>
+	<li>
+      <strong class="title">PuzzleWalk: A Theory-Driven Iterative Design Inquiry of a Mobile Game for Promoting Physical Activity in Autistic Adults</strong><br>
+      <strong><u>B Kim</u></strong>, D Lee, A Min, S Paik, G Frey, S Bellini, K Han, and PC Shih<br>
+      <span class="venue journal"><strong>PLoS One</strong>, SCIE, 2020.09</span>   
+    </li>
+	<li>
+      <strong class="title">No More One Liners: Bringing Context into Emoji Recommendations</strong><br>
+      JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
+      <span class="venue journal"><strong>ACM Transactions on Social Computing</strong>, 2020.04</span>   
+    </li>
+	<li>
+      <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
+      JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
+      <span class="venue journal"><strong>IEEE Access</strong>, SCIE, 2019.07</span>   
+    </li>
+	<li>
+      <strong class="title">Photos Don't Have Me, But How Do You Know Me?: Analyzing and Predicting Users on Instagram</strong><br>
+      K Han, Y Jo, Y Jeon, <strong><u>B Kim</u></strong>, J Song, and SW Kim<br>
+      <span class="venue conf"><strong>UMAP 2018</strong></span>   
+    </li>
+		
 <!--
 <table class="my_list">
 		<tr>
