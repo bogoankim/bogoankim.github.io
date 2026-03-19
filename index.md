@@ -408,7 +408,6 @@ flex: 0 0 auto;
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
         <span class="venue conf"><strong>ACM CHI 2023</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
       </div>
-      </div>
     </li>
     <li class="pub-item">
       <span class="pub-num">[13]</span>
