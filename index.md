@@ -162,7 +162,7 @@ author_profile: true
 }
 
 .venue-note {
-  font-size: 0.93em;
+  font-size: 0.9em;
 }
 
 a {
