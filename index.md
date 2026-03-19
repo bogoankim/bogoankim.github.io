@@ -275,7 +275,7 @@ flex: 0 0 auto;
 
   <ul class="my_list">
     <li class="pub-item">
-      <span class="pub-num">[27]</span>
+      <span class="pub-num">[28]</span>
       <div class="pub-body">
         <div class="pub-award">
           <img src="assets/images/medal.png" alt="Medal">
@@ -287,7 +287,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[26]</span>
+      <span class="pub-num">[27]</span>
       <div class="pub-body">
         <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
         {J Kim*, D Jeong*}, B Son, H Kim, <strong><u>B Kim</u></strong>, and K Han<br>
@@ -295,7 +295,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[25]</span>
+      <span class="pub-num">[26]</span>
       <div class="pub-body">
         <div class="pub-award">
           <img src="assets/images/medal.png" alt="Medal">
@@ -306,14 +306,22 @@ flex: 0 0 auto;
         <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
-    <li class="pub-item">
-      <span class="pub-num">[24]</span>
+	<li class="pub-item">
+      <span class="pub-num">[25]</span>
       <div class="pub-body">
         <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
         H Lim, D Choi, S Nam, <strong><u>B Kim</u></strong>, and H Hong<br>
         <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
+	<li class="pub-item">
+      <span class="pub-num">[24]</span>
+      <div class="pub-body">
+        <strong class="title">Mobile and VR Technologies for Social Independence in Autistic Individuals: A Scoping Review</strong><br>
+        <strong><u>B Kim</u></strong>, and D Kang<br>
+        <span class="venue journal"><strong>Journal of Korean Institute of Intelligent Systems</strong><span class="venue-note"> (KCI, 2026.03)</span></span>
+      </div>
+    </li>  
     <li class="pub-item">
       <span class="pub-num">[23]</span>
       <div class="pub-body">
@@ -343,7 +351,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Development of a Personalized Early Prediction Model for Cybersickness in Virtual Reality</strong><br>
         YS Choi, D Jeong, B Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue journal"><strong>KIISE Transaction on Computing Practices</strong></span>
+        <span class="venue journal"><strong>KIISE Transaction on Computing Practices</strong><span class="venue-note"> (KCI, 2025.02)</span></span>
       </div>
     </li>  
 	  <li class="pub-item">
@@ -407,7 +415,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">A Study on Mobile Game Design to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, H Hong, and K Han<br>
-        <span class="venue journal"><strong>Journal of HCI Korea</strong><span class="venue-note"> (2022.06)</span></span>
+        <span class="venue journal"><strong>Journal of HCI Korea</strong><span class="venue-note"> (KCI, 2022.06)</span></span>
       </div>
     </li>
     <li class="pub-item">
