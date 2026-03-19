@@ -243,11 +243,15 @@ a {
 	<h5 class="section-title">Publications </h5>
 	<hr class="sep">
 	<ul class="my_list">
+	  <div style="display:flex; align-items:center; gap:6px; color:#1F5CFF; font-size:0.95em; font-weight:700; margin-bottom:6px;">
+    <img src="assets/images/medal.png" alt="Medal" style="height:1em; width:auto;">
+    <span>Best Paper Honorable Mention Award</span>
+  </div>
 	 <li>
       <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
       M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
       <span class="venue conf"><strong>ACM CHI 2026</strong></span><br>
-      <span style="color:#db5664; font-size:0.9em;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span>
+      <!-- <span style="color:#db5664; font-size:0.9em;"><i class="fas fa-medal"></i> <strong>Best Paper Honorable Mention Award</strong></span> -->
     </li>
 	<li>
       <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
