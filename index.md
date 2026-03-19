@@ -153,11 +153,11 @@ author_profile: true
   }
 }
 
-.venue.conf strong {
+.venue.conf {
   color: #2D7F7A;
 }
 
-.venue.journal strong {
+.venue.journal {
   color: #A12A2A;
 }
 
