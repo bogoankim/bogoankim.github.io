@@ -161,6 +161,10 @@ author_profile: true
   color: #A12A2A;
 }
 
+.venue-note {
+  font-size: 0.93em;
+}
+
 a {
   color: #4285f4;
 }
@@ -469,7 +473,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
-        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <small>2020.07</small></span>
+        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <small>(2020.07)</small></span>
       </div>
     </li>
     </li>
@@ -502,7 +506,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Leveraging Mobile Technology to Support Goal Setting and Strategies of College Students</strong><br>
         <strong><u>B Kim</u></strong>, S Rhim, K Han, and S-W Lee<br>
-        <span class="venue conf"><strong>ACM UbiComp 2018</strong> <small>(Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></small></span>
+        <span class="venue conf"><strong>ACM UbiComp 2018</strong> <span class="venue-note">(Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -510,7 +514,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Photos Don't Have Me, But How Do You Know Me?: Analyzing and Predicting Users on Instagram</strong><br>
         K Han, Y Jo, Y Jeon, <strong><u>B Kim</u></strong>, J Song, and SW Kim<br>
-        <span class="venue conf"><strong>UMAP 2018</strong> <small>(Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i></small></span>
+        <span class="venue conf"><strong>UMAP 2018</strong> <span class="venue-note">(Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i></span></span>
       </div>
     </li>
   </ul>
