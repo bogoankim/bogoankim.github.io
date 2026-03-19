@@ -489,7 +489,7 @@ flex: 0 0 auto;
       <span class="pub-num">[4]</span>
       <div class="pub-body">
         <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
-       <strong><u>B Kim</u></strong>, SW Lee, H Hong, and K Han<br>
+       <strong><u>B Kim</u></strong>, S-W Lee, H Hong, and K Han<br>
         <span class="venue journal"><strong>IEEE Access</strong> <span class="venue-note">(SCIE, 2019.07)</span></span>
       </div>
     </li>
