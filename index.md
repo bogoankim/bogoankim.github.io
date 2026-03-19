@@ -524,47 +524,49 @@ flex: 0 0 auto;
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
-	<ul class="my_list">
-		<li> <strong class="title">Best Paper Honorable Mention</strong> <br>
-			ACM CHI conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2026
-		</li>
-		<li> <strong class="title">Jang Young Sil Fellowship</strong> <br>
-			Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
-		</li>
-		<!-- <li> <strong class="title">Hanyang University Postdoctoral Fellowship</strong> <br>
-			Research Institute of Industrial Science, Hanyang University<span class="dot-sep"></span> 2025
-		</li> -->
-		<li> <strong class="title">NRF of Korea Ph.D. Fellowship</strong> <br>
-			National Research Foundation of Korea<span class="dot-sep"></span> 2023
-		</li>
-		<li> <strong class="title">UIST Travel Grant</strong> <br>
-			ACM Symposium on User Interface Software and Technology <span class="dot-sep"></span> 2023
-		</li>
-		<li> <strong class="title">Gary Marsden Travel Award</strong> <br>
-			SIGCHI <span class="dot-sep"></span> 2023
-		</li>
-		<li><strong class="title">SK Creative Challenge Finalist</strong> <br>
-			SK C&C <span class="dot-sep"></span> 2022
-		</li>
-		<li><strong class="title">IITP Best Global Research Team Award</strong> <br>
-			Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
-		</li>
-		<li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
-			CHI 2024, CHI 2025, IMWUT 2025, CHI 2026
-		</li>
-		<li><strong class="title">Domestic Conference Awards</strong> <br>
-			Grand Paper Award: KDMS 2024 <br>
-			Best Paper Award: KDMS 2024 <br>
-			Best Presentation Award: KCC 2024
-		</li>
-		
-		<!-- <li> <strong class="title">Best Paper Award</strong> <br> -->
-			<!-- Korea Information Processing Society (KIPS) <span class="dot-sep"></span> 2021  -->
-		<!-- </li> -->
-		<!-- <li><strong class="title">Best Presentation Award</strong> <br> -->
-			<!-- Korea Computer Congress (KCC) <span class="dot-sep"></span> 2017 -->
-		<!-- </li> -->
-	</ul>
+    <ul class="my_list">
+        <li> <strong class="title">Best Paper Honorable Mention</strong> <br>
+            ACM CHI conference on Human Factors in Computing Systems <span class="dot-sep"></span> 2026
+        </li>
+        <li> <strong class="title">Jang Young Sil Fellowship</strong> <br>
+            Ministry of Science and ICT, Korea<span class="dot-sep"></span> 2025
+        </li>
+        <li> <strong class="title">NRF of Korea Ph.D. Fellowship</strong> <br>
+            National Research Foundation of Korea<span class="dot-sep"></span> 2023
+        </li>
+        <li> <strong class="title">UIST Travel Grant</strong> <br>
+            ACM Symposium on User Interface Software and Technology <span class="dot-sep"></span> 2023
+        </li>
+        <li> <strong class="title">Gary Marsden Travel Award</strong> <br>
+            SIGCHI <span class="dot-sep"></span> 2023
+        </li>
+        <li><strong class="title">SK Creative Challenge Finalist</strong> <br>
+            SK C&C <span class="dot-sep"></span> 2022
+        </li>
+        <li><strong class="title">IITP Best Global Research Team Award</strong> <br>
+            Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2021
+        </li>
+        <li><strong class="title">IITP High-Potential Individuals Global Training Fellowship</strong> <br>
+            Institute of Information & communications Technology Planning & Evaluation <span class="dot-sep"></span> 2020
+        </li>
+        <li><strong class="title">Global Talent Attraction Program (GTAP) Fellowship</strong> <br>
+            Indiana University <span class="dot-sep"></span> 2019
+        </li>
+        <li><strong class="title">Honors on the Dean's List</strong> <br>
+            Academic Honors <span class="dot-sep"></span> 2011, 2012, 2015
+        </li>
+        <li><strong class="title">Global Excellence Scholarship</strong> <br>
+            Merit-based Scholarship <span class="dot-sep"></span> 2011
+        </li>
+        <li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
+            CHI 2024, CHI 2025, IMWUT 2025, CHI 2026
+        </li>
+        <li><strong class="title">Domestic Conference Awards</strong> <br>
+            Grand Paper Award: KDMS 2024 <br>
+            Best Paper Award: KDMS 2024 <br>
+            Best Presentation Award: KCC 2024
+        </li>
+    </ul>
 </div>
 <!--
 <div id="services" class="section">
