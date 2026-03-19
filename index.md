@@ -302,7 +302,7 @@ flex: 0 0 auto;
         </div>
         <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
         M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -310,7 +310,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
         {J Kim*, D Jeong*}, B Son, H Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -322,7 +322,7 @@ flex: 0 0 auto;
         </div>
         <strong class="title">“I Choose to Live, for Life Itself”: Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks</strong><br>
         {S-I Kim*, J Park*}, <strong><u>B Kim</u></strong>, and H Hong<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -330,7 +330,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
         H Lim, D Choi, S Nam, <strong><u>B Kim</u></strong>, and H Hong<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -338,7 +338,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through Virtual Reality for Subthreshold Depression</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
-        <span class="venue journal"><strong>Springer Virtual Reality</strong>, SCIE, 2026.03</span>
+        <span class="venue journal"><strong>Springer Virtual Reality</strong><span class="venue-note"> (SCIE, 2026.03)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -346,7 +346,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
         {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, Y Choi, H Kim, and K Han<br> 
-        <span class="venue journal"><strong>Scientific Reports</strong>, SCIE, 2025.09</span>
+        <span class="venue journal"><strong>Scientific Reports</strong><span class="venue-note"> (SCIE, 2025.09)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -354,7 +354,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
         {S Jin*, <strong><u>B Kim*</u></strong>}, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2025</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2025</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
@@ -370,7 +370,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Early Prediction of Cybersickness in Virtual Reality Using a Large Language Model for Multimodal Time Series Data</strong><br>
         YS Choi, D Jeong, B Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ACM UbiComp 2024</strong> (Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></span>
+        <span class="venue conf"><strong>ACM UbiComp 2024</strong><span class="venue-note"> (Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></span></span>
       </div>
     </li>  
     <li class="pub-item">
@@ -378,7 +378,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2024</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2024</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -386,7 +386,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Promoting Self-Efficacy of Individuals With Autism in Practicing Social Skills in the Workplace Using Virtual Reality and Physiological Sensors: Mixed Methods Study</strong><br>
         SI Kim, S Jang, T Kim, <strong><u>B Kim</u></strong>, D Jeong, T Noh, M Jeong, K Hall, M Kim, HJ Yoo, K Han, H Hong, and JG Kim<br>
-        <span class="venue journal"><strong>JMIR Formative Research</strong>, SCIE, 2024.01</span>
+        <span class="venue journal"><strong>JMIR Formative Research</strong><span class="venue-note"> (SCIE, 2024.01)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -394,7 +394,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, JG Kim, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM UIST 2023</strong> | <i>ACM International Symposium on User Interface Software and Technology</i></span>
+        <span class="venue conf"><strong>ACM UIST 2023</strong><span class="venue-note"> | <i>ACM International Symposium on User Interface Software and Technology</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -402,7 +402,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
         <strong><u>B Kim</u></strong><br>
-        <span class="venue conf"><strong>ACM UIST 2023</strong> (Doctoral Symposium) | <i>ACM International Symposium on User Interface Software and Technology</i></span>
+        <span class="venue conf"><strong>ACM UIST 2023</strong><span class="venue-note"> (Doctoral Symposium) | <i>ACM International Symposium on User Interface Software and Technology</i></span></span>
       </div> 
     </li>
     <li class="pub-item">
@@ -410,7 +410,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2023</strong> | <i>ACM International Conference on Human Factors in Computing Systems</i></span>
+        <span class="venue conf"><strong>ACM CHI 2023</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -418,7 +418,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">VISTA: User-centered VR Training System for Effectively Deriving Characteristics of People with Autism Spectrum Disorder</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, M Jeong, T Noh, SI Kim, T Kim, S Jang, HJ Yoo, JG Kim, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM VRST 2022</strong> | <i>ACM International Symposium on Virtual Reality Software and Technology</i></span>
+        <span class="venue conf"><strong>ACM VRST 2022</strong><span class="venue-note"> | <i>ACM International Symposium on Virtual Reality Software and Technology</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
@@ -426,7 +426,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">A Study on Mobile Game Design to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, H Hong, and K Han<br>
-        <span class="venue journal"><strong>Journal of HCI Korea</strong></span>
+        <span class="venue journal"><strong>Journal of HCI Korea</strong><span class="venue-note"> (2022.06)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -434,7 +434,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Directions</strong><br>
         <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
-        <span class="venue journal"><strong>PLoS One</strong>, SCIE, 2021.12</span>
+        <span class="venue journal"><strong>PLoS One</strong> <span class="venue-note">(SCIE, 2021.12)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -442,7 +442,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System </strong><br>
         Y Jeon, <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
-        <span class="venue conf"><strong>ACM CSCW 2021</strong> <small> | <i>ACM International Conference on Computer-Supported Cooperative Work & Social Computing</i></small></span>
+        <span class="venue conf"><strong>ACM CSCW 2021</strong> <span class="venue-note"> | <i>ACM International Conference on Computer-Supported Cooperative Work & Social Computing</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -450,7 +450,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Usability Assessment of a Mobile Health Intervention for Increasing Physical Activity in Autistic Adults </strong><br>
         D Lee, G Frey, A Min, <strong><u>B Kim</u></strong>, D Cothran, S Bellini, K Han, and PC Shih<br>
-        <span class="venue journal"><strong>SAGE Health Informatics Journal,</strong> <small>(SCIE, 2020.09)</small></span>
+        <span class="venue journal"><strong>SAGE Health Informatics Journal,</strong> <span class="venue-note">(SCIE, 2020.09)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -458,14 +458,14 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">PuzzleWalk: A Theory-Driven Iterative Design Inquiry of a Mobile Game for Promoting Physical Activity in Autistic Adults</strong><br>
         <strong><u>B Kim</u></strong>, D Lee, A Min, S Paik, G Frey, S Bellini, K Han, and PC Shih<br>
-        <span class="venue journal"><strong>PLoS One</strong> <small>(SCIE, 2020.09)</small></span>
+        <span class="venue journal"><strong>PLoS One</strong> <span class="venue-note">(SCIE, 2020.09)</span></span>
       </div>
 	   <li class="pub-item">
       <span class="pub-num">[7]</span>
       <div class="pub-body">
         <strong class="title">Ecological Momentary Assessment of Physical Activity, Sedentary Time, and Anxiety in Autistic Adults</strong><br>
         DH Lee, D Cothran, S Bellini, PC Shih, K Han, <strong><u>B Kim</u></strong>, A Min, S Paik, and GC Frey<br>
-        <span class="venue conf"><strong>INSAR 2020</strong> <small>(Poster) | International Society for Autism Research</small></span>
+        <span class="venue conf"><strong>INSAR 2020</strong> <span class="venue-note">(Poster) | International Society for Autism Research</span></span>
       </div>
     </li>
 	 <li class="pub-item">
@@ -473,7 +473,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
-        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <small>(2020.07)</small></span>
+        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <span class="venue-note">(2020.07)</span></span>
       </div>
     </li>
     </li>
@@ -482,7 +482,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">No More One Liners: Bringing Context into Emoji Recommendations</strong><br>
         JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
-        <span class="venue journal"><strong>ACM Transactions on Social Computing</strong> <small>(2020.04)</small></span>
+        <span class="venue journal"><strong>ACM Transactions on Social Computing</strong> <span class="venue-note">(2020.04)</span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -490,7 +490,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
         JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
-        <span class="venue journal"><strong>IEEE Access</strong> <small>(SCIE, 2019.07)</small></span>
+        <span class="venue journal"><strong>IEEE Access</strong> <span class="venue-note">(SCIE, 2019.07)</span></span>
       </div>
     </li>
    <li class="pub-item">
@@ -498,7 +498,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Bringing Context into Emoji Recommendations</strong><br>
         J-G Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and S-J Lee<br>
-        <span class="venue conf"><strong>ACM MobiSys 2019</strong> <small>(Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></small></span>
+        <span class="venue conf"><strong>ACM MobiSys 2019</strong> <span class="venue-note">(Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
