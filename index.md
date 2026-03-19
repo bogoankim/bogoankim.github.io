@@ -153,12 +153,12 @@ author_profile: true
   }
 }
 
-  .venue.conf strong {
-    color: #0056d2; /* 붉은색: 학회 */
+.venue.conf strong {
+  color: #1F5CFF;
 }
 
-  .venue.journal strong {
-    color: #9b0000; /* 고동색: 저널 */
+.venue.journal strong {
+  color: #9B0000;
 }
 
 a {
