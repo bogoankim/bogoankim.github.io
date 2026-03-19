@@ -511,7 +511,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Photos Don't Have Me, But How Do You Know Me?: Analyzing and Predicting Users on Instagram</strong><br>
         K Han, Y Jo, Y Jeon, <strong><u>B Kim</u></strong>, J Song, and SW Kim<br>
-        <span class="venue conf"><strong>UMAP 2018</strong> (Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i>
+        <span class="venue conf"><strong>UMAP 2018</strong> (Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i></span>
       </div>
     </li>
   </ul>
