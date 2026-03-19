@@ -481,7 +481,7 @@ flex: 0 0 auto;
       <span class="pub-num">[5]</span>
       <div class="pub-body">
         <strong class="title">No More One Liners: Bringing Context into Emoji Recommendations</strong><br>
-        JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
+        J-G Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
         <span class="venue journal"><strong>ACM Transactions on Social Computing</strong> <span class="venue-note">(2020.04)</span></span>
       </div>
     </li>
@@ -489,7 +489,7 @@ flex: 0 0 auto;
       <span class="pub-num">[4]</span>
       <div class="pub-body">
         <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
-        JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
+       <strong><u>B Kim</u></strong>, SW Lee, H Hong, and K Han<br>
         <span class="venue journal"><strong>IEEE Access</strong> <span class="venue-note">(SCIE, 2019.07)</span></span>
       </div>
     </li>
