@@ -268,25 +268,6 @@ flex: 0 0 auto;
 	</ul>
 </div>
 
-<div id="edu" class="section">
-	<h5 class="section-title">Education</h5>
-	<hr class="sep">
-	<ul class="my_list">
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Feb 2025
-			<ul class="inner-ul">
-				<li class="inner-li"> Ph.D in Artificial Intelligence
-					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
-				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
-			</ul>
-		</li>
-		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Jan 2017 <br>
-			<ul class="inner-ul">
-				<li class="inner-li"> B.S in Statistics (Graduated with honors) </li>
-			</ul>
-		</li>
-	</ul>
-</div>
-
 <div id="pub" class="section"> 
   <!-- <small>(For a complete list, please visit <a href="https://sites.google.com/view/cbnu-hci">our Lab Homepage</a>)</small> -->
   <h5 class="section-title">Publications </h5>
@@ -519,6 +500,25 @@ flex: 0 0 auto;
     </li>
   </ul>
 </div>
+
+<div id="edu" class="section">
+	<h5 class="section-title">Education</h5>
+	<hr class="sep">
+	<ul class="my_list">
+		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Feb 2025
+			<ul class="inner-ul">
+				<li class="inner-li"> Ph.D in Artificial Intelligence
+					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
+				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
+			</ul>
+		</li>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Jan 2017 <br>
+			<ul class="inner-ul">
+				<li class="inner-li"> B.S in Statistics (Graduated with honors) </li>
+			</ul>
+		</li>
+	</ul>
+</div>
 		
 
 <div id="honors" class="section">
@@ -552,12 +552,12 @@ flex: 0 0 auto;
         <li><strong class="title">Global Talent Attraction Program (GTAP) Fellowship</strong> <br>
             Indiana University <span class="dot-sep"></span> 2019
         </li>
-        <li><strong class="title">Honors on the Dean's List</strong> <br>
+        <!-- <li><strong class="title">Honors on the Dean's List</strong> <br>
             Academic Honors <span class="dot-sep"></span> 2011, 2012, 2015
         </li>
         <li><strong class="title">Global Excellence Scholarship</strong> <br>
             Merit-based Scholarship <span class="dot-sep"></span> 2011
-        </li>
+        </li> -->
         <li><strong class="title">Special Recognitions for Outstanding Reviews</strong> <br>
             CHI 2024, CHI 2025, IMWUT 2025, CHI 2026
         </li>
