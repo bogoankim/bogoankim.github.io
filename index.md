@@ -502,7 +502,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Leveraging Mobile Technology to Support Goal Setting and Strategies of College Students</strong><br>
         <strong><u>B Kim</u></strong>, S Rhim, K Han, and S-W Lee<br>
-        <span class="venue conf"><strong>ACM UbiComp 2018</strong> (Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></span>
+        <span class="venue conf"><strong>ACM UbiComp 2018</strong> <small>(Poster) | <i>ACM International Conference on Pervasive and Ubiquitous Computing</i></small></span>
       </div>
     </li>
     <li class="pub-item">
@@ -510,7 +510,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Photos Don't Have Me, But How Do You Know Me?: Analyzing and Predicting Users on Instagram</strong><br>
         K Han, Y Jo, Y Jeon, <strong><u>B Kim</u></strong>, J Song, and SW Kim<br>
-        <span class="venue conf"><strong>UMAP 2018</strong> (Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i></span>
+        <span class="venue conf"><strong>UMAP 2018</strong> <small>(Short) | <i>ACM International Conference on on User Modeling, Adaptation and Personalization</i></small></span>
       </div>
     </li>
   </ul>
