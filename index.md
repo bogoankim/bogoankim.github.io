@@ -154,7 +154,7 @@ author_profile: true
 }
 
 .venue.conf strong {
-  color: #2D7F7A;
+  color: #356D86;
 }
 
 .venue.journal strong {
