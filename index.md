@@ -438,7 +438,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System </strong><br>
         Y Jeon, <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
-        <span class="venue conf"><strong>ACM CSCW 2021</strong> | <i>ACM International Conference on Computer-Supported Cooperative Work & Social Computing</i></span>
+        <span class="venue conf"><strong>ACM CSCW 2021</strong> <small> | <i>ACM International Conference on Computer-Supported Cooperative Work & Social Computing</i></small></span>
       </div>
     </li>
     <li class="pub-item">
@@ -446,7 +446,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Usability Assessment of a Mobile Health Intervention for Increasing Physical Activity in Autistic Adults </strong><br>
         D Lee, G Frey, A Min, <strong><u>B Kim</u></strong>, D Cothran, S Bellini, K Han, and PC Shih<br>
-        <span class="venue journal"><strong>SAGE Health Informatics Journal,</strong>, SCIE, 2020.09</span>
+        <span class="venue journal"><strong>SAGE Health Informatics Journal,</strong> <small>(SCIE, 2020.09)</small></span>
       </div>
     </li>
     <li class="pub-item">
@@ -454,14 +454,14 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">PuzzleWalk: A Theory-Driven Iterative Design Inquiry of a Mobile Game for Promoting Physical Activity in Autistic Adults</strong><br>
         <strong><u>B Kim</u></strong>, D Lee, A Min, S Paik, G Frey, S Bellini, K Han, and PC Shih<br>
-        <span class="venue journal"><strong>PLoS One</strong>, SCIE, 2020.09</span>
+        <span class="venue journal"><strong>PLoS One</strong> <small>(SCIE, 2020.09)</small></span>
       </div>
 	   <li class="pub-item">
       <span class="pub-num">[7]</span>
       <div class="pub-body">
         <strong class="title">Ecological Momentary Assessment of Physical Activity, Sedentary Time, and Anxiety in Autistic Adults</strong><br>
         DH Lee, D Cothran, S Bellini, PC Shih, K Han, <strong><u>B Kim</u></strong>, A Min, S Paik, and GC Frey<br>
-        <span class="venue conf"><strong>INSAR 2020</strong> (Poster) | International Society for Autism Research </span>
+        <span class="venue conf"><strong>INSAR 2020</strong> <small>(Poster) | International Society for Autism Research</small></span>
       </div>
     </li>
 	 <li class="pub-item">
@@ -469,7 +469,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
-        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong>, 2020.07</span>
+        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <small>2020.07</small></span>
       </div>
     </li>
     </li>
@@ -478,7 +478,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">No More One Liners: Bringing Context into Emoji Recommendations</strong><br>
         JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
-        <span class="venue journal"><strong>ACM Transactions on Social Computing</strong>, 2020.04</span>
+        <span class="venue journal"><strong>ACM Transactions on Social Computing</strong> <small>(2020.04)</small></span>
       </div>
     </li>
     <li class="pub-item">
@@ -486,7 +486,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
         JG Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
-        <span class="venue journal"><strong>IEEE Access</strong>, SCIE, 2019.07</span>
+        <span class="venue journal"><strong>IEEE Access</strong> <small>(SCIE, 2019.07)</small></span>
       </div>
     </li>
    <li class="pub-item">
@@ -494,7 +494,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Bringing Context into Emoji Recommendations</strong><br>
         J-G Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and S-J Lee<br>
-        <span class="venue conf"><strong>ACM MobiSys 2019</strong> (Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></span>
+        <span class="venue conf"><strong>ACM MobiSys 2019</strong> <small>(Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></small></span>
       </div>
     </li>
 	<li class="pub-item">
