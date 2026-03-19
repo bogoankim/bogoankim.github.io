@@ -243,7 +243,7 @@ a {
 	<h5 class="section-title">Publications </h5>
 	<hr class="sep">
 	<ul class="my_list">
-	  <div style="display:flex; align-items:center; gap:6px; color:#1F5CFF; font-size:0.95em; font-weight:700; margin-bottom:6px;">
+	  <div style="display:flex; align-items:center; gap:6px; color:#DB5664; font-size:0.95em; font-weight:700; margin-bottom:6px;">
     <img src="assets/images/medal.png" alt="Medal" style="height:1em; width:auto;">
     <span>Best Paper Honorable Mention Award</span>
   </div>
