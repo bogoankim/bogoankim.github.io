@@ -287,7 +287,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Agreement Between Smartphone- and Research-grade Accelerometer-measured Step Counts in Autistic Adults in Free-living Conditions</strong><br>
         L McNulty, <strong><u>B Kim</u></strong>, AE Bodde, ML Mauriello, BC Helsel, and D Lee<br>
-        <span class="venue conf"><strong>ACSM 2026</strong> <span class="venue-note">(Poster) | American College of Sports Medicine</span></span>
+        <span class="venue conf"><strong>ACSM 2026</strong> <span class="venue-note">(Poster) | <i>American College of Sports Medicine</i></span></span>
       </div>
     </li>
 	  <li class="pub-item">
@@ -471,7 +471,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
-        <span class="venue conf"><strong>ACSM 2020</strong> <span class="venue-note">(Poster) | American College of Sports Medicine</span></span>
+        <span class="venue conf"><strong>ACSM 2020</strong> <span class="venue-note">(Poster) | <i>American College of Sports Medicine</i></span></span>
       </div>
     </li>
 	 <li class="pub-item">
@@ -487,7 +487,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">A Study on the Text-Based Characteristics of Autistic Individuals through Social Media Data Analysis</strong><br>
         J Han, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ICNGC 2020</strong> <span class="venue-note">(Poster) | The International Conference on Next Generation Computing</span></span>
+        <span class="venue conf"><strong>ICNGC 2020</strong> <span class="venue-note">(Poster) | <i>The International Conference on Next Generation Computing</i></span></span>
       </div>
     </li>
    <li class="pub-item">
@@ -495,7 +495,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Ecological Momentary Assessment of Physical Activity, Sedentary Time, and Anxiety in Autistic Adults</strong><br>
         DH Lee, D Cothran, S Bellini, PC Shih, K Han, <strong><u>B Kim</u></strong>, A Min, S Paik, and GC Frey<br>
-        <span class="venue conf"><strong>INSAR 2020</strong> <span class="venue-note">(Poster) | International Society for Autism Research</span></span>
+        <span class="venue conf"><strong>INSAR 2020</strong> <span class="venue-note">(Poster) | <i>International Society for Autism Research</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -527,7 +527,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Iterative Design and Usability of Gamified Application for Adults with Autism Spectrum Disorder</strong><br>
         S Paik, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ICNGC 2019</strong> <span class="venue-note">(Poster) | The International Conference on Next Generation Computing</span></span>
+        <span class="venue conf"><strong>ICNGC 2019</strong> <span class="venue-note">(Poster) | <i>The International Conference on Next Generation Computing</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
