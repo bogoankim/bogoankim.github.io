@@ -299,7 +299,7 @@ flex: 0 0 auto;
         </div>
         <strong class="title">QuerySwitch: Supporting the Design Process by Balancing Vagueness through LLMs</strong><br>
         M Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -307,7 +307,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
         {J Kim*, D Jeong*}, B Son, H Kim, <strong><u>B Kim</u></strong>, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -319,7 +319,7 @@ flex: 0 0 auto;
         </div>
         <strong class="title">“I Choose to Live, for Life Itself”: Understanding Agency of Home-Based Care Patients Through Information Practices and Relational Dynamics in Care Networks</strong><br>
         {S-I Kim*, J Park*}, <strong><u>B Kim</u></strong>, and H Hong<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
@@ -327,7 +327,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
         H Lim, D Choi, S Nam, <strong><u>B Kim</u></strong>, and H Hong<br>
-        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2026</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
 	<li class="pub-item">
@@ -383,7 +383,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2024</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2024</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
@@ -415,7 +415,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
-        <span class="venue conf"><strong>ACM CHI 2023</strong><span class="venue-note"> | <i>ACM International Conference on Human Factors in Computing Systems</i></span></span>
+        <span class="venue conf"><strong>ACM CHI 2023</strong><span class="venue-note"> | <i>ACM CHI Conference on Human Factors in Computing Systems</i></span></span>
       </div>
     </li>
     <li class="pub-item">
