@@ -287,7 +287,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Agreement Between Smartphone- and Research-grade Accelerometer-measured Step Counts in Autistic Adults in Free-living Conditions</strong><br>
         L McNulty, <strong><u>B Kim</u></strong>, AE Bodde, ML Mauriello, BC Helsel, and D Lee<br>
-        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <span class="venue-note">(2026.05)</span></span>  
+        <span class="venue conf"><strong>ACSM Annual Meeting 2026</strong> <span class="venue-note">(Poster) | American College of Sports Medicine</span></span>
       </div>
     </li>
 	  <li class="pub-item">
@@ -479,7 +479,7 @@ flex: 0 0 auto;
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
-        <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <span class="venue-note">(2020.07)</span></span>
+        <span class="venue conf"><strong>ACSM Annual Meeting 2020</strong> <span class="venue-note">(Poster) | American College of Sports Medicine</span></span>
       </div>
     </li>
 	 <li class="pub-item">
