@@ -518,7 +518,7 @@ flex: 0 0 auto;
       <span class="pub-num">[3]</span>
       <div class="pub-body">
         <strong class="title">Iterative Design and Usability of Gamified Application for Adults with Autism Spectrum Disorder</strong><br>
-        S Baik, <strong><u>B Kim</u></strong>, and K Han<br>
+        S Paik, <strong><u>B Kim</u></strong>, and K Han<br>
         <span class="venue conf"><strong>ICNGC 2019</strong> <span class="venue-note">(Poster) | The International Conference on Next Generation Computing</span></span>
       </div>
     </li>
