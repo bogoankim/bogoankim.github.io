@@ -275,7 +275,7 @@ flex: 0 0 auto;
 
   <ul class="my_list">
 	<li class="pub-item">
-      <span class="pub-num">[30]</span>
+      <span class="pub-num">[32]</span>
       <div class="pub-body">
         <strong class="title">When Special Education Meets LLMs: Investigating the use of LLM-based Conversational AI by Special Education Teachers for Autism in China</strong><br>
 		J Wu, D Choi, <strong><u>B Kim</u></strong>, and H Hong<br>
@@ -283,7 +283,7 @@ flex: 0 0 auto;
       </div>
     </li>
     	 <li class="pub-item">
-      <span class="pub-num">[29]</span>
+      <span class="pub-num">[31]</span>
       <div class="pub-body">
         <strong class="title">Agreement Between Smartphone- and Research-grade Accelerometer-measured Step Counts in Autistic Adults in Free-living Conditions</strong><br>
         L McNulty, <strong><u>B Kim</u></strong>, AE Bodde, ML Mauriello, BC Helsel, and D Lee<br>
@@ -291,7 +291,7 @@ flex: 0 0 auto;
       </div>
     </li>
 	  <li class="pub-item">
-      <span class="pub-num">[28]</span>
+      <span class="pub-num">[30]</span>
       <div class="pub-body">
         <div class="pub-award">
           <img src="assets/images/medal.png" alt="Medal">
@@ -303,7 +303,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[27]</span>
+      <span class="pub-num">[29]</span>
       <div class="pub-body">
         <strong class="title">LAPS: Automating Hypothesis-Driven Statistical Analysis of Public Survey Using LLMs</strong><br>
         {J Kim*, D Jeong*}, B Son, H Kim, <strong><u>B Kim</u></strong>, and K Han<br>
@@ -311,7 +311,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[26]</span>
+      <span class="pub-num">[28]</span>
       <div class="pub-body">
         <div class="pub-award">
           <img src="assets/images/medal.png" alt="Medal">
@@ -323,7 +323,7 @@ flex: 0 0 auto;
       </div>
     </li>
 	<li class="pub-item">
-      <span class="pub-num">[25]</span>
+      <span class="pub-num">[27]</span>
       <div class="pub-body">
         <strong class="title">Understanding Human-Multi-Agent Team Formation for Creative Work</strong><br>
         H Lim, D Choi, S Nam, <strong><u>B Kim</u></strong>, and H Hong<br>
@@ -331,7 +331,7 @@ flex: 0 0 auto;
       </div>
     </li>
 	<li class="pub-item">
-      <span class="pub-num">[24]</span>
+      <span class="pub-num">[26]</span>
       <div class="pub-body">
         <strong class="title">Mobile and VR Technologies for Social Independence in Autistic Individuals: A Scoping Review</strong><br>
         <strong><u>B Kim</u></strong>, and D Kang<br>
@@ -339,7 +339,7 @@ flex: 0 0 auto;
       </div>
     </li>  
     <li class="pub-item">
-      <span class="pub-num">[23]</span>
+      <span class="pub-num">[25]</span>
       <div class="pub-body">
         <strong class="title">VR-ACT: Transforming Clinical Evidence of Acceptance Commitment Therapy through Virtual Reality for Subthreshold Depression</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, YS Choi, H Kim, and K Han<br> 
@@ -347,7 +347,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[22]</span>
+      <span class="pub-num">[24]</span>
       <div class="pub-body">
         <strong class="title">Enhancing Mindfulness-Based Cognitive Therapy in a VR: A Prospective Interventional Study</strong><br>
         {<strong><u>B Kim*</u></strong>, D Jeong*}, YS Choi, Y Choi, H Kim, and K Han<br> 
@@ -355,7 +355,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[21]</span>
+      <span class="pub-num">[23]</span>
       <div class="pub-body">
         <strong class="title">"I Don’t Know Why I Should Use This App”: Holistic Analysis on User Engagement Challenges in Mobile Mental Health</strong><br>
         {S Jin*, <strong><u>B Kim*</u></strong>}, and K Han<br>
@@ -363,7 +363,7 @@ flex: 0 0 auto;
       </div>
     </li>
 	<li class="pub-item">
-      <span class="pub-num">[20]</span>
+      <span class="pub-num">[22]</span>
       <div class="pub-body">
         <strong class="title">Development of a Personalized Early Prediction Model for Cybersickness in Virtual Reality</strong><br>
         YS Choi, D Jeong, B Kim, <strong><u>B Kim</u></strong>, and K Han<br>
@@ -371,7 +371,7 @@ flex: 0 0 auto;
       </div>
     </li>  
 	  <li class="pub-item">
-      <span class="pub-num">[19]</span>
+      <span class="pub-num">[21]</span>
       <div class="pub-body">
         <strong class="title">Early Prediction of Cybersickness in Virtual Reality Using a Large Language Model for Multimodal Time Series Data</strong><br>
         YS Choi, D Jeong, B Kim, <strong><u>B Kim</u></strong>, and K Han<br>
@@ -379,7 +379,7 @@ flex: 0 0 auto;
       </div>
     </li>  
     <li class="pub-item">
-      <span class="pub-num">[18]</span>
+      <span class="pub-num">[20]</span>
       <div class="pub-body">
         <strong class="title">Narrating Routines through Game Dynamics: Impact of a Gamified Routine Management App for Autistic Individuals</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, H Hong, and K Han<br>
@@ -387,7 +387,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[17]</span>
+      <span class="pub-num">[19]</span>
       <div class="pub-body">
         <strong class="title">Promoting Self-Efficacy of Individuals With Autism in Practicing Social Skills in the Workplace Using Virtual Reality and Physiological Sensors: Mixed Methods Study</strong><br>
         SI Kim, S Jang, T Kim, <strong><u>B Kim</u></strong>, D Jeong, T Noh, M Jeong, K Hall, M Kim, HJ Yoo, K Han, H Hong, and JG Kim<br>
@@ -395,7 +395,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[16]</span>
+      <span class="pub-num">[18]</span>
       <div class="pub-body">
         <strong class="title">V-DAT: Supporting Self-Awareness for Autistic People from Multimodal VR Sensor Data</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, JG Kim, H Hong, and K Han<br>
@@ -403,7 +403,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[15]</span>
+      <span class="pub-num">[17]</span>
       <div class="pub-body">
         <strong class="title">Supporting Independence of Autistic Adults through Mobile and Virtual Reality Technologies</strong><br>
         <strong><u>B Kim</u></strong><br>
@@ -411,7 +411,7 @@ flex: 0 0 auto;
       </div> 
     </li>
     <li class="pub-item">
-      <span class="pub-num">[14]</span>
+      <span class="pub-num">[16]</span>
       <div class="pub-body">
         <strong class="title">RoutineAid: Externalizing Key Design Elements to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, HJ Yoo, H Hong, and K Han<br>
@@ -419,7 +419,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[13]</span>
+      <span class="pub-num">[15]</span>
       <div class="pub-body">
         <strong class="title">VISTA: User-centered VR Training System for Effectively Deriving Characteristics of People with Autism Spectrum Disorder</strong><br>
         <strong><u>B Kim</u></strong>, D Jeong, M Jeong, T Noh, SI Kim, T Kim, S Jang, HJ Yoo, JG Kim, H Hong, and K Han<br>
@@ -427,7 +427,7 @@ flex: 0 0 auto;
       </div>
     </li>
 	<li class="pub-item">
-      <span class="pub-num">[12]</span>
+      <span class="pub-num">[14]</span>
       <div class="pub-body">
         <strong class="title">A Study on Mobile Game Design to Support Daily Routines of Individuals with Autism</strong><br>
         <strong><u>B Kim</u></strong>, S-I Kim, S Park, H Hong, and K Han<br>
@@ -435,7 +435,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[11]</span>
+      <span class="pub-num">[13]</span>
       <div class="pub-body">
         <strong class="title">A Systematic Review on Fake News Research through the Lens of News Creation and Consumption: Research Efforts, Challenges, and Future Directions</strong><br>
         <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
@@ -443,7 +443,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[10]</span>
+      <span class="pub-num">[12]</span>
       <div class="pub-body">
         <strong class="title">ChamberBreaker: Mitigating the Echo Chamber Effect and Supporting Information Hygiene through a Gamified Inoculation System </strong><br>
         Y Jeon, <strong><u>B Kim</u></strong>, A Xiong, D Lee, and K Han<br>
@@ -451,7 +451,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[9]</span>
+      <span class="pub-num">[11]</span>
       <div class="pub-body">
         <strong class="title">Usability Assessment of a Mobile Health Intervention for Increasing Physical Activity in Autistic Adults </strong><br>
         D Lee, G Frey, A Min, <strong><u>B Kim</u></strong>, D Cothran, S Bellini, K Han, and PC Shih<br>
@@ -459,14 +459,14 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[8]</span>
+      <span class="pub-num">[10]</span>
       <div class="pub-body">
         <strong class="title">PuzzleWalk: A Theory-Driven Iterative Design Inquiry of a Mobile Game for Promoting Physical Activity in Autistic Adults</strong><br>
         <strong><u>B Kim</u></strong>, D Lee, A Min, S Paik, G Frey, S Bellini, K Han, and PC Shih<br>
         <span class="venue journal"><strong>PLoS One</strong> <span class="venue-note">(SCIE, 2020.09)</span></span>
       </div>
 	   <li class="pub-item">
-      <span class="pub-num">[7]</span>
+      <span class="pub-num">[9]</span>
       <div class="pub-body">
         <strong class="title">Ecological Momentary Assessment of Physical Activity, Sedentary Time, and Anxiety in Autistic Adults</strong><br>
         DH Lee, D Cothran, S Bellini, PC Shih, K Han, <strong><u>B Kim</u></strong>, A Min, S Paik, and GC Frey<br>
@@ -474,16 +474,23 @@ flex: 0 0 auto;
       </div>
     </li>
 	 <li class="pub-item">
-      <span class="pub-num">[6]</span>
+      <span class="pub-num">[8]</span>
       <div class="pub-body">
         <strong class="title">Objectively Measured Physical Activity and Sedentary Time in Adults with Autism Spectrum Disorder</strong><br>
         DH Lee, PC Shih, <strong><u>B Kim</u></strong>, K Han, A Min, D Cothran, S Bellini, and GC Frey<br>
         <span class="venue journal"><strong>Medicine and Science in Sports and Exercise</strong> <span class="venue-note">(2020.07)</span></span>
       </div>
     </li>
+	 <li class="pub-item">
+      <span class="pub-num">[7]</span>
+      <div class="pub-body">
+        <strong class="title">A Study on the Text-Based Characteristics of Autistic Individuals through Social Media Data Analysis</strong><br>
+        J Han, <strong><u>B Kim</u></strong>, and K Han<br>
+        <span class="venue conf"><strong>ICNGC 2020</strong> <span class="venue-note">(Poster) | The International Conference on Next Generation Computing</span></span>
+      </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[5]</span>
+      <span class="pub-num">[6]</span>
       <div class="pub-body">
         <strong class="title">No More One Liners: Bringing Context into Emoji Recommendations</strong><br>
         J-G Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and SJ Lee<br>
@@ -491,7 +498,7 @@ flex: 0 0 auto;
       </div>
     </li>
     <li class="pub-item">
-      <span class="pub-num">[4]</span>
+      <span class="pub-num">[5]</span>
       <div class="pub-body">
         <strong class="title">ATM: The Effectiveness of Self-Regulation on Time Management through a Smartphone Application</strong><br>
        <strong><u>B Kim</u></strong>, S-W Lee, H Hong, and K Han<br>
@@ -499,11 +506,19 @@ flex: 0 0 auto;
       </div>
     </li>
    <li class="pub-item">
-      <span class="pub-num">[3]</span>
+      <span class="pub-num">[4]</span>
       <div class="pub-body">
         <strong class="title">Bringing Context into Emoji Recommendations</strong><br>
         J-G Kim, T Gong, <strong><u>B Kim</u></strong>, JY Park, W Kim, E Huang, K Han, J Kim, JG Ko, and S-J Lee<br>
         <span class="venue conf"><strong>ACM MobiSys 2019</strong> <span class="venue-note">(Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></span></span>
+      </div>
+    </li>
+<li class="pub-item">
+      <span class="pub-num">[3]</span>
+      <div class="pub-body">
+        <strong class="title">Iterative Design and Usability of Gamified Application for Adults with Autism Spectrum Disorder</strong><br>
+        S Baik, <strong><u>B Kim</u></strong>, and K Han<br>
+        <span class="venue conf"><strong>ICNGC 2019</strong> <span class="venue-note">(Poster) | The International Conference on Next Generation Computing</span></span>
       </div>
     </li>
 	<li class="pub-item">
