@@ -465,6 +465,7 @@ flex: 0 0 auto;
         <strong><u>B Kim</u></strong>, D Lee, A Min, S Paik, G Frey, S Bellini, K Han, and PC Shih<br>
         <span class="venue journal"><strong>PLoS One</strong> <span class="venue-note">(SCIE, 2020.09)</span></span>
       </div>
+	</li>
 	   <li class="pub-item">
       <span class="pub-num">[9]</span>
       <div class="pub-body">
