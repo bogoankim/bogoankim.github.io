@@ -218,18 +218,29 @@ flex: 0 0 auto;
 </style>
 
 <div id="bio" class="section">
-	<h5 class="section-title">Biography</h5>
-	<hr class="sep">
-	<p>
-  Bogoan Kim is an Assistant Professor in the
-  <a href="https://inform.chungbuk.ac.kr/">School of Information and Communication Engineering, Chungbuk National University</a>,
-  where he leads the <a href="https://sites.google.com/view/cbnu-hci">HCI Lab</a>.
-  Prior to joining CBNU, he was a Postdoctoral Researcher at KAIST, supported by the Jang Young Sil Fellowship,
-  working with Prof. Hwajung Hong and Prof. Uichin Lee.
-  He earned his Ph.D. in Artificial Intelligence from Hanyang University under the supervision of Prof. Kyungsik Han,
-  supported by the NRF of Korea Ph.D. Fellowship.
-</p>
-
+  <h5 class="section-title">Biography</h5>
+  <hr class="sep">
+  <p>
+    Bogoan Kim is an Assistant Professor in the
+    <a href="https://inform.chungbuk.ac.kr/">School of Information and Communication 
+    Engineering, Chungbuk National University</a>,
+    where he leads the <a href="https://sites.google.com/view/cbnu-hci">HCI Lab</a>.
+  </p>
+  <p>
+    His research sits at the intersection of human-computer interaction (HCI), digital 
+    health, and inclusive AI. He designs and empirically evaluates AI-infused 
+    systems&mdash;spanning mobile applications, VR-based interventions, and LLM-powered 
+    tools&mdash;grounded in multimodal behavioral data and participatory design. 
+    A particular emphasis is placed on preserving human agency in AI-driven processes 
+    and on the meaningful integration of AI into real-world workflows across diverse 
+    professional and social contexts.
+  </p>
+  <p>
+    His work has been published in premier HCI venues including CHI, UIST, and CSCW.
+    He received his Ph.D. in Artificial Intelligence from Hanyang University, advised by 
+    Prof. Kyungsik Han, and was a Postdoctoral Researcher at KAIST, working with 
+    Prof. Hwajung Hong and Prof. Uichin Lee.
+  </p>
 </div>
 
 <div id="exp" class="section">
