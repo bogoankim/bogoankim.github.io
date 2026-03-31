@@ -236,10 +236,11 @@ flex: 0 0 auto;
     professional and social contexts.
   </p>
   <p>
-    His work has been published in premier HCI venues including CHI, UIST, and CSCW.
+    His work has been published in top-tier HCI and CS venues including CHI, UIST, 
+    UbiComp, and VRST.
     He received his Ph.D. in Artificial Intelligence from Hanyang University, advised by 
-    Prof. Kyungsik Han, and was a Jang Young-Sil Postdoctoral Fellow at KAIST, working 
-    with Prof. Hwajung Hong and Prof. Uichin Lee.
+    Prof. Kyungsik Han, supported by the NRF of Korea Ph.D. Fellowship, and was a 
+    Jang Young-Sil Postdoctoral Fellow at KAIST.
   </p>
 </div>
 
