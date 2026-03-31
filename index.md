@@ -238,8 +238,8 @@ flex: 0 0 auto;
   <p>
     His work has been published in premier HCI venues including CHI, UIST, and CSCW.
     He received his Ph.D. in Artificial Intelligence from Hanyang University, advised by 
-    Prof. Kyungsik Han, and was a Postdoctoral Researcher at KAIST, working with 
-    Prof. Hwajung Hong and Prof. Uichin Lee.
+    Prof. Kyungsik Han, and was a Jang Young-Sil Postdoctoral Fellow at KAIST, working 
+    with Prof. Hwajung Hong and Prof. Uichin Lee.
   </p>
 </div>
 
