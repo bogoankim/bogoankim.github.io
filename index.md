@@ -565,14 +565,14 @@ flex: 0 0 auto;
 	<h5 class="section-title">Education</h5>
 	<hr class="sep">
 	<ul class="my_list">
-		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <span class="dot-sep"></span> Feb 2025
+		<li><strong class="title">Hanyang University</strong>, Seoul, Korea <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> Ph.D in Artificial Intelligence
 					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Kyungsik Han</a>)  </li>
 				<li class="inner-li"> Dissertation: BalancePath: AI-VR Framework for Personalized Adaptive System </li>
 			</ul>
 		</li>
-		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <span class="dot-sep"></span> Jan 2017 <br>
+		<li><strong class="title"> University of Minnesota - Twin Cities</strong>, MN, USA <br>
 			<ul class="inner-ul">
 				<li class="inner-li"> B.S in Statistics (Graduated with honors) </li>
 			</ul>
