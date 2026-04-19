@@ -286,7 +286,7 @@ flex: 0 0 auto;
   <hr class="sep">
 
   <ul class="my_list">
-	<!-- <li class="pub-item">
+	<li class="pub-item">
       <span class="pub-num">[33]</span>
       <div class="pub-body">
         <strong class="title">When Special Education Meets LLMs: Investigating the use of LLM-based Conversational AI by Special Education Teachers for Autism in China</strong><br>
@@ -301,7 +301,7 @@ flex: 0 0 auto;
         L McNulty, <strong><u>B Kim</u></strong>, AE Bodde, ML Mauriello, BC Helsel, and D Lee<br>
         <span class="venue conf"><strong>ACSM 2026</strong> <span class="venue-note">(Poster) | <i>American College of Sports Medicine</i></span></span>
       </div>
-    </li> -->
+    </li>
 	  <li class="pub-item">
       <span class="pub-num">[31]</span>
       <div class="pub-body">
