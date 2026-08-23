@@ -227,13 +227,11 @@ flex: 0 0 auto;
     where he leads the <a href="https://sites.google.com/view/cbnu-hci">HCI Lab</a>.
   </p>
   <p>
-    His research sits at the intersection of human-computer interaction (HCI), digital 
-    health, and inclusive AI. He designs and empirically evaluates AI-infused 
-    systems&mdash;spanning mobile applications, VR-based interventions, and LLM-powered 
-    tools&mdash;grounded in multimodal behavioral data and participatory design. 
-    A particular emphasis is placed on preserving human agency in AI-driven processes 
-    and on the meaningful integration of AI into real-world workflows across diverse 
-    professional and social contexts.
+    His research spans human-AI interaction, computing for well-being, embodied 
+    interaction in XR, and behavioral sensing. He designs and empirically evaluates 
+    AI-infused systems, from LLM-powered tools to VR-based interventions, that read 
+    multimodal behavioral signals and adapt to the people using them. A particular 
+    emphasis is placed on preserving human agency in AI-driven processes.
   </p>
   <p>
     His work has been published in top-tier HCI and CS venues including CHI, UIST, 
@@ -242,8 +240,23 @@ flex: 0 0 auto;
     Prof. Kyungsik Han, supported by the NRF of Korea Ph.D. Fellowship, and was a 
     Jang Young-Sil Postdoctoral Fellow at KAIST.
   </p>
+  <p>
+    For current projects, publications, and openings, visit the
+    <a href="https://sites.google.com/view/cbnu-hci">HCI Lab</a>.
+  </p>
 </div>
 
+<div id="pub" class="section">
+  <h5 class="section-title">Publications</h5>
+  <hr class="sep">
+  <p>
+    For a complete and up-to-date list, please visit
+    <a href="https://scholar.google.co.kr/citations?user=eiUCUwgAAAAJ&hl=en&oi=ao">Google Scholar</a>
+    or the <a href="https://sites.google.com/view/cbnu-hci">HCI Lab</a> homepage.
+  </p>
+</div>
+
+<!--
 <div id="exp" class="section">
 	<h5 class="section-title">Positions</h5>
 	<hr class="sep">
@@ -259,12 +272,6 @@ flex: 0 0 auto;
 					(Advisors: <a href="https://dxd-lab.github.io/">Prof. Hwajung Hong</a> and <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ&hl=en">Prof. Uichin Lee</a>) </li>
 			</ul>
 		</li>
-		<!-- <li><strong class="title">Hanyang University</strong>, Seoul, Korea  <span class="dot-sep"></span> Mar 2025 - April 2025 
-			<ul class="inner-ul">
-				<li class="inner-li"> Postdoctoral Researcher, Department of Data Science 
-					(Advisor: <a href="http://hcc.hanyang.ac.kr/">Prof. Kyungsik Han</a>) </li>
-			</ul>
-		</li> -->
 		<li><strong class="title">The Pennsylvania State University</strong>, PA, USA <span class="dot-sep"></span> Jan 2020 - Jun 2020
 			<ul class="inner-ul">
 				<li class="inner-li"> Visiting Researcher, College of IST 
@@ -279,12 +286,12 @@ flex: 0 0 auto;
 		</li>
 	</ul>
 </div>
+--!>
 
+<!--
 <div id="pub" class="section"> 
-  <!-- <small>(For a complete list, please visit <a href="https://sites.google.com/view/cbnu-hci">our Lab Homepage</a>)</small> -->
   <h5 class="section-title">Publications </h5>
   <hr class="sep">
-
   <ul class="my_list">
 	<li class="pub-item">
       <span class="pub-num">[33]</span>
@@ -534,7 +541,7 @@ flex: 0 0 auto;
         <span class="venue conf"><strong>ACM MobiSys 2019</strong> <span class="venue-note">(Poster) | <i>ACM International Conference on Mobile Systems, Applications, and Services</i></span></span>
       </div>
     </li>
-<li class="pub-item">
+ <li class="pub-item">
       <span class="pub-num">[3]</span>
       <div class="pub-body">
         <strong class="title">Iterative Design and Usability of Gamified Application for Adults with Autism Spectrum Disorder</strong><br>
@@ -559,8 +566,8 @@ flex: 0 0 auto;
       </div>
     </li>
   </ul>
-</div>
-
+</div> -->
+<!--
 <div id="edu" class="section">
 	<h5 class="section-title">Education</h5>
 	<hr class="sep">
@@ -579,8 +586,9 @@ flex: 0 0 auto;
 		</li>
 	</ul>
 </div>
+--!>
 		
-
+<!--
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
@@ -628,6 +636,7 @@ flex: 0 0 auto;
         </li>
     </ul>
 </div>
+--!>
 <!--
 <div id="services" class="section">
     <h5 class="section-title">Professional Services</h5>
