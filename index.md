@@ -587,7 +587,8 @@ flex: 0 0 auto;
 	</ul>
 </div>
 --!>
-		
+
+<!--		
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
@@ -634,7 +635,7 @@ flex: 0 0 auto;
             Best Presentation Award: KCC 2024
         </li>
     </ul>
-</div>
+--!>
 
 <!-- <div id="services" class="section">
     <h5 class="section-title">Professional Services</h5>
