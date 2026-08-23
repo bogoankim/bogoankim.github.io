@@ -588,7 +588,6 @@ flex: 0 0 auto;
 </div>
 --!>
 		
-<!--
 <div id="honors" class="section">
     <h5 class="section-title">Honors & Awards</h5>
     <hr class="sep">
@@ -636,9 +635,8 @@ flex: 0 0 auto;
         </li>
     </ul>
 </div>
---!>
-<!--
-<div id="services" class="section">
+
+<!-- <div id="services" class="section">
     <h5 class="section-title">Professional Services</h5>
     <hr class="sep">
 	<ul class="my_list">
@@ -659,5 +657,4 @@ flex: 0 0 auto;
 			Journal of Supercomputing <span class="dot-sep"></span> 2023 <br>
 		</li>
 	</ul>
-</div>
--->
+</div> -->
