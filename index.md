@@ -234,11 +234,8 @@ flex: 0 0 auto;
     emphasis is placed on preserving human agency in AI-driven processes.
   </p>
   <p>
-    His work has been published in top-tier HCI and CS venues including CHI, UIST, 
-    UbiComp, and VRST.
-    He received his Ph.D. in Artificial Intelligence from Hanyang University, advised by 
-    Prof. Kyungsik Han, supported by the NRF of Korea Ph.D. Fellowship, and was a 
-    Jang Young-Sil Postdoctoral Fellow at KAIST.
+    His work has been published in premier HCI venues including CHI and UIST.
+    He studied Statistics at the University of Minnesota, Twin Cities, and received his Ph.D. in Artificial Intelligence from Hanyang University, advised by Prof. Kyungsik Han, supported by the NRF of Korea Ph.D. Fellowship. He was a Jang Young-Sil Postdoctoral Fellow at KAIST.
   </p>
   <p>
     For current projects, publications, and openings, visit the
